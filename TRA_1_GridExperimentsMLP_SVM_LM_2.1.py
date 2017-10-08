@@ -22,7 +22,7 @@ from random import randint
 
 mainInPath = r'/home/larisams/DataMin/Training/inputData'
 mainOutPath = r'/home/larisams/DataMin/Training/outputData'
-trainS = [r'training_AC_LRK.txt',r'training_AC_LR.txt']
+trainS = [r'training_LPR.txt',r'training_LR.txt',r'training_L.txt',r'training_LPRK.txt',r'training_LRK.txt',r'training_LK.txt']
 inTrainClass = r'training-classes.txt'
 
 
