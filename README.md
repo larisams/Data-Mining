@@ -7,3 +7,12 @@ Con los grandes avances en tecnologías de secuanciación masiva, la cantidad de
 Proponemos aplicar las técnicas de minería de datos así como expresiones regulares para:
 1) Clasificar oraciones dentro de textos de literatura científica que contenga asociaciones entre polimorfismos y enfermedades 
 2) Extraer estas asociaciones unificando terminologías y estandarizando procesos 
+
+## Archivos 
+
+* Los datasets procesados bajo una estrategia de expresiones regulares sin el uso de técnicas de minería de datos contienen la etiqueta 'RE' en el nombre, así como los scripts utilizados para procesar dichos archivos. 
+
+* Tanto datasets como scripts contienen una etiqueta que representa en que parte del proceso fueron utilizados :
+   - PRE : Fase de preprocesamiento de archivos
+   - TRA : Fase de entrenamiento de los clasificadores 
+   - EVAL: Fase de evaluación 
