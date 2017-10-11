@@ -15,6 +15,6 @@ Proponemos aplicar las técnicas de minería de datos así como expresiones regu
 * Tanto datasets como scripts contienen una etiqueta que representa en que parte del proceso fueron utilizados :
    - PRE : Fase de preprocesamiento de archivos
    - TRA : Fase de entrenamiento de los clasificadores 
-   - EVAL: Fase final de evaluación 
-   - TES : Fase de evaluación del clasificador 
-   - CLA : Fase de clasificación de abstracts 
+   - EVAL: Fase final de evaluación     
+   - TES : Fase de evaluación del clasificador     
+   - CLA : Fase de clasificación de abstracts    
