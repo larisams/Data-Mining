@@ -1,0 +1,612 @@
+METHODS : Among 215 outpatients with dementia and MCI , 155 with mild AD ( n = 108 ) or A-MCI ( n = 47 ) were recruited and divided into three genotypic groups based on the representative NT-3 functional polymorphisms rs6332 and rs6489630 .
+RESULTS : The total FAB score was not significantly associated with the rs6332 and rs6489630 genotypes ; however , the conflicting instructions score among the 6 subtests was significantly associated with the rs6332 genotype ( p < 0.05 ) .
+Moreover , in patients with mild AD , the conflicting instructions score differed significantly among the three genotypic groups of rs6332 ( p < 0.05 ) ( G/G < A/A : p = 0.042 and G/A < A/A : p = 0.041 ) .
+No significant differences in any other demographic variables were observed among the three genotypes of rs6332 and rs6489630 .
+CONCLUSION : These results suggested that an NT-3 polymorphism , rs6332 , may significantly influence executive function , reflecting interference performances among patients with mild-stage AD .
+We showed association of the minor allele C of rs10946398 ( Odds Ratio ( OR ) = 1.21 , 95 % CI = 1.04-1 .4 , P = 0.016 ) , allele C of rs7754840 ( OR = 1.18 , 95 % CI = 1.01-1 .37 , P = 0.038 ) , and allele G of rs7756992 ( OR = 1.21 , 95 % CI = 1.04-1 .42 , P = 0.017 ) with higher diabetes risk thereby replicating the predisposing role of CDKAL1 in etiology of T2D .
+Transgenic mice carrying the G93A mutation of the superoxide dismutase 1 ( SOD1 ) gene develop a neurodegenerative disease closely mimicking human ALS .
+Several methods are currently used to record disease onset and progression of the animals in preclinical studies .
+For the interpretation of these preclinical trials , it is important to assess neurological function as sensitively as possible .
+The rotarod and footprint analyses were performed weekly while the weight was recorded up to three times a week at later time points .
+General condition was assessed daily .
+For preclinical testing of novel drug treatments rotarod and footprint analysis for step length therefore seem to be the most effective methods to detect symptom onset and potential treatment induced improvements .
+BACKGROUND : Venous-Thrombosis ( VT ) is a common multifactorial disease associated with a major public health burden .
+We aimed to identify genetic variants associated with VT risk .
+METHODOLOGY/PRINCIPAL FINDINGS : We conducted a genome-wide association study ( GWAS ) based on 551,141 SNPs genotyped in 1,542 cases and 1,110 controls .
+Twelve SNPs reached the genome-wide significance level of 2.0 x10 ( -8 ) and encompassed four known VT-associated loci , ABO , F5 , F11 and FGG .
+By means of haplotype analyses , we also provided novel arguments in favor of a role of HIVEP1 , PROCR and STAB2 , three loci recently hypothesized to participate in the susceptibility to VT. .
+However , no novel VT-associated loci came out of our GWAS .
+Using a recently proposed statistical methodology , we also showed that common variants could explain about 35 % of the genetic variance underlying VT susceptibility among which 3 % could be attributable to the main identified VT loci .
+This analysis additionally suggested that the common variants left to be identified are not uniformly distributed across the genome and that chromosome 20 , itself , could contribute to approximately 7 % of the total genetic variance .
+Mutations of SLC26A4 are associated with incomplete partition type II ( IP-II ) and isolated enlargement of the vestibular aqueduct ( EVA ) .
+We experienced a congenitally deaf 6-year-old boy with a rare p.Thr410Met homozygous mutation in SLC26A4 who underwent bilateral cochlear implantation .
+He had bilateral inner ear malformation , in which the dilated vestibule and EVA were identical to those in IP-II , but the cochlea lacking a bony modiolus resembled that in incomplete partition type I .
+These results suggest that homozygous mutations in SLC26A4 are always associated with EVA , while the severity of cochlear malformation may vary depending on the type of SLC26A4 mutation .
+PURPOSE : The BT-40 low-grade childhood astrocytoma xenograft model expresses mutated BRAF ( V600E ) and is highly sensitive to the MEK inhibitor selumetinib ( AZD6244 ) .
+In this study , we developed and characterized selumetinib resistance and explored approaches to circumventing the mechanisms of acquired resistance .
+EXPERIMENTAL DESIGN : BT-40 xenografts were selected in vivo for selumetinib resistance .
+Characterization included expression profiling , assessment of MEK signature and compensatory pathways , MEK inhibition , BRAF expression , and cytokine levels .
+Drug resistance was associated with an enhanced MEK signature and increased interleukin ( IL ) -6 and IL-8 expression .
+Selumetinib treatment induced phosphorylation of STAT3 ( Y705 ) only in resistant xenografts , and similar results were observed in BRAF ( V600E ) astrocytic cell lines intrinsically resistant to selumetinib .
+CONCLUSIONS : Resistance to selumetinib selected in vivo in BT-40 tumor xenografts was unstable .
+OBJECTIVE : To examine the collective effects of type 1 ( T1D ) and type 2 diabetes ( T2D ) risk alleles on prostate cancer ( PCa ) risk .
+Logistic regression was used to estimate odds ratios ( OR ) and 95 % confidence intervals ( CI ) for associations between the diabetes risk scores and PCa risk .
+These associations remained significant after excluding HNF1B SNP rs4430796 ( a known PCa risk factor ) from the analysis .
+The highest quartile of the T2D allele count ( > 20 risk alleles ) was associated with reduced PCa risk ( OR = 0.77 ; CI : 0.60-0 .99 ) compared to the lowest category ( < 17 risk alleles ) .
+CONCLUSIONS : These results suggest that individuals with increased genetic susceptibility to T2D have decreased risk for PCa .
+This association is consistent with the observation that individuals with T2D are at decreased risk for PCa ; however , data on T2D status was not available for this analysis .
+Polymorphisms of -403 G/A ( rs2107538 ) , -28 C/G ( rs2280788 ) , and In1 .1 T/C ( rs2280789 ) in chemotactic chemokine ligand 5 ( CCL5 ) have linked with many respiratory diseases .
+We investigated the influence of the IL28B rs12979860 ( C > T ) polymorphism on the risk of severe HCV recurrence after liver transplantation .
+METHODS : Ninety patients who underwent transplantation because of HCV cirrhosis were retrospectively analyzed ; forty-one ( 45.6 % ) of them with severe HCV recurrence .
+IL28B rs12979860 was genotyped by real-time polymerase chain reaction , and evaluated for association with severe HCV recurrence , along with other variables , by univariate and multivariate analyses .
+RESULTS : The risk allele rs12979860-T was more common in transplanted patients ( 66.7 % ) than reported in healthy whites , and it was significantly overrepresented among patients with severe HCV recurrence , in comparison with patients without it ( 82.9 % vs. 53.1 % , odds ratio [ OR ] = 4.30 , etiologic fraction = 63.6 % ; P = 0.0028 ) .
+RESULTS : The risk allele rs12979860-T was more common in transplanted patients ( 66.7 % ) than reported in healthy whites , and it was significantly overrepresented among patients with severe HCV recurrence , in comparison with patients without it ( 82.9 % vs. 53.1 % , odds ratio [ OR ] = 4.30 , etiologic fraction = 63.6 % ; P = 0.0028 ) .
+CONCLUSIONS : The recipient IL28B rs12979860 genotype has a major influence on the posttransplantation course of HCV infection , being a valuable biomarker for patient care in liver transplantation .
+IL-20 , a member of IL-10 family , is found to be involved in the development of psoriasis .
+In our previous study , a single-nucleotide polymorphism ( SNP ) of IL-20-1723Cshort right arrowG ( rs1713239 ) was found to be associated with psoriasis progression , especially in those induced by upper respiratory tract infection .
+We found that in HaCat cells , both IL-1beta and CpG-A triggered a stronger IL-20 promoter activity with the risk-associated G allele in comparison with the nonrisk C allele of rs1713239 .
+This study demonstrates that rs1713239 and infection may have potential synergetic effect on modulating the transcriptional activity of IL-20 .
+FINDINGS : Variants at three loci reached genome-wide significance in discovery cohorts for association with 25-hydroxyvitamin D concentrations , and were confirmed in replication cohorts : 4p12 ( overall p = 1.9 x10 ( -109 ) for rs2282679 , in GC ) ; 11q12 ( p = 2.1 x10 ( -27 ) for rs12785878 , near DHCR7 ) ; and 11p15 ( p = 3.3 x10 ( -20 ) for rs10741657 , near CYP2R1 ) .
+Variants at an additional locus ( 20q13 , CYP24A1 ) were genome-wide significant in the pooled sample ( p = 6.0 x10 ( -10 ) for rs6013897 ) .
+We found that the miR-146a polymorphism rs2910164 might significantly increase the susceptibility of digestive tumors , in particular for esophageal cancer and colorectal cancers .
+Two polymorphisms in the HIF-1a gene ( rs11549465 and rs115494657 ) were examined in 157 hepatitis B virus ( HBV ) - related HCC patients and 173 healthy controls using the polymerase chain reaction-restriction fragment length polymorphism method .
+There were no significant differences in the genotype and allele frequencies of HIF-1a rs11549465 and rs115494657 polymorphisms between the HBV-related HCC patients and healthy controls .
+HIF-1a rs11549465 and rs115494657 polymorphisms appeared to be irrelevant to HBV-related HCC .
+In addition the ability of p.Ser36Tyr to co-localize with conjugated ubiquitin foci in the nuclei of S-phase synchronized cells following genotoxic stress with hydroxyurea is impaired at more pronounced levels than that of the p.Cys61Gly pathogenic variant .
+Previous studies suggest that a single-nucleotide polymorphism ( SNP ) in the promoter of the ODC gene ( rs2302615 ) may be associated with adenoma risk and/or response to aspirin chemoprevention .
+However , in multiple SNP regression models , only two of these , located downstream of the gene , were independently associated with risk : rs11694911 ( RR = 1.29 ; 95 % CI , 1.08-1 .53 ; P = 0.005 ) and rs2430420 ( RR = 1.20 ; 95 % CI , 1.03-1 .40 ; P = 0.022 ) .
+In addition , there was evidence that rs2430420 and rs28362380 modified the effect of aspirin treatment , whereas the previously investigated SNP , rs2302615 , had no statistically significant main effect or interaction with aspirin treatment .
+This polymorphism is exclusively found in Ameri-indian populations and is associated with type 2 diabetes .
+Each person with the risk allele ( R230C ) was matched by age , gender and BMI to three others with the wild type variant ( R230R ) .
+The main outcome variable was the glyburide dose required to achieve treatment goals .
+RESULTS : No significant difference was observed in the glucose lowering effect of glyburide between subjects with the R230C and R230R alleles .
+Cytochrome P450-derived epoxyeicosatrienoic acids are potent vasodilators in preclinical models and are hydrolyzed by soluble epoxide hydrolase ( EPHX2 ) .
+Associations between the EPHX2 Lys55Arg and Arg287Gln polymorphisms and cardiovascular disease risk have been reported ; however , their impact on vascular function in humans has not been investigated .
+In 265 volunteers ( 198 white , 67 black American ) , forearm blood flow was measured by strain-gauge venous occlusion plethysmography at baseline and in response to bradykinin , methacholine , and sodium nitroprusside .
+Forearm vascular resistance was calculated as mean arterial pressure/forearm blood flow .
+Although the difference in forearm blood flow did not reach statistical significance ( P = 0.058 ) , forearm vascular resistance was significantly lower ( P = 0.037 ) in Gln287 variant allele carriers compared to wild-type individuals .
+Significant associations were also observed with methacholine and sodium nitroprusside .
+In white Americans , Gln287 variant allele carriers did not exhibit significantly higher forearm blood flow ( P = 0.128 ) or lower forearm vascular resistance ( P = 0.080 ) .
+The variable length poly-T , rs10524523 ( ' 523 ' ) located within the TOMM40 gene , was recently associated with several phenotypes of cognitive function .
+The S/S group performed better than the VL/VL group ( p = 0.048 ) , specifically in the executive function ( p = 0.04 ) and episodic memory ( p = 0.050 ) domains .
+DNA extracted from blood was genotyped with a TaqMan-based allelic discrimination SNP assay for 21 SNPs in six candidate genes ( PLAG12A , IL23R , STAT3 , VEGFA , KDR , and HIF1A ) .
+The SNPs were primarily selected based on previously reported associations with AMD and functional involvement in angiogenesis pathways .
+RESULTS : Of the 106 patients with nAMD , 77 were classified as good responders and 29 as poor responders .
+For rs2285714 ( PLA2G12A ) , the frequency of minor allele T was 40.1 % for good responders compared to 51.7 % for poor responders ( odds ratio : 1.60 , 95 % confidence interval of odds ratio : 0.87-2 .94 , p = 0.13 ) .
+Genetic model analysis of rs2285714 ( PLA2G12A ) demonstrated an association between rs2285714 ( PLA2G12A ) and therapy response in a dominant genotypic model .
+Patients carrying at least one T allele of rs2285714 were 2.79 times ( 95 % confidence interval = 1.02-7 .69 , p < 0.05 ) more likely to be poor responders ( 79.3 % of poor responders ) than good responders ( 57.3 % of good responders ) .
+The SNP rs2285714 of PLA2G12A was not significantly associated with AMD in an independent AMD case-control cohort .
+CONCLUSIONS : Data suggest a possible weak association between rs2285714 ( PLA2G12A ) and response to anti-VEGF therapy , but the association must be confirmed in additional cohorts with larger patient samples .
+Identifying factors that predict the differentiated response could provide a valuable assay for developing approaches in personalized medicine .
+This result indicates that the KATP channel activity in the brain may have an influence on water intake .
+We demonstrate the methods by replicating a PheWAS on rs3135388 ( near HLA-DRB , associated with multiple sclerosis ) and performing a novel PheWAS using an individual 's maximum white blood cell count ( WBC ) as a continuous measure .
+Our results for rs3135388 replicate known associations with more significant results than the original study on the same dataset .
+It is implemented in native R and is platform independent .
+Most studies focused on the functional single nucleotide polymorphism ( SNP ) rs4680 that causes a substitution of Val by Met at codon 158 of the COMT protein .
+Recent meta-analyses do not support an association between allelic variants at rs4680 and schizophrenia .
+However , the putative role of overdominance has not been tested in meta-analyses , despite its biological plausibility .
+A total of 51 studies comprising 13,894 schizophrenic patients and 16,087 controls were included in the meta-analysis , that revealed a small but significant protective effect for heterozygosity at rs4680 ( pooled OR = 0.947 , P = 0.023 ) .
+Post-hoc analysis on southwestern European samples suggested a stronger effect in these populations ( pooled OR = 0.813 , P = 0.0009 ) .
+Thus , the COMT functional polymorphism rs4680 contributes to schizophrenia genetic susceptibility under an overdominant model , indicating that both too high and too low levels of dopamine ( DA ) signalling may be risk factors .
+Monilethrix , a rare human hair disorder with autosomal dominant transmission , can be caused by mutations in hair keratins .
+Up to now , causative mutations have only been found in two type II cortex keratins , hHb6 and hHb1 .
+In these hair keratins , the helix termination motif , HTM , was the only site in which mutations were located .
+In this study , we describe the equivalent of the hHb1 Glu402Lys mutation in the HTM of cortex keratin hHb6 .
+In conclusion , our data strongly suggest that monilethrix is a disease of the hair cortex , whose etiology is interesting in that causative mutations seem to be restricted to type II hair keratins .
+BACKGROUND AND AIM : Although gastroesophageal reflux disease ( GERD ) is a risk factor for esophageal adenocarcinoma ( EAC ) , some patients develop EAC in the absence of GERD .
+Rare pilocytic astrocytomas ( PA ) have atypical histologic and clinicoradiologic features that raise the differential diagnosis of glioblastoma .
+Here , ten PAs with atypical clinicoradiologic and histologic features and six pediatric glioblastoma multiforme ( pGBMs ) were analyzed for BRAF V600E , IDH1 , IDH2 , and TP53 mutations .
+A single BRAF V600E mutation was identified in the fusion-negative extracerebellar PA of a very young child who succumbed to the disease .
+These results suggest that ( a ) BRAF-KIAA1549 fusion may be common in PAs with atypical clinicoradiologic and histologic features , including those at extracerebellar sites , ( b ) BRAF V600E mutation is uncommon in extracerebellar PAs , and ( c ) TP53 mutation analysis remains a valuable tool in identifying childhood gliomas that will likely behave in a malignant fashion .
+These systems counteract or modulate each other , in concert with a host of intracellular second messenger pathways to regulate sodium and water balance .
+GRK4gamma 142Vtransgenic mice are hypertensive on normal salt intake while GRK4gamma 486V transgenic mice develop hypertension only with an increase in salt intake .
+Knowledge of the numerous blood pressure regulatory pathways involving angiotensin and dopamine may provide new therapeutic approaches to the pharmacological regulation of sodium excretion and ultimately blood pressure control .
+c. 1559delT has been found only in Japanese and its prevalence is suspected to be high ; however , the allele frequency of c. 1559delT in Japanese remains unknown .
+This indicates that approximately 1 in 900 000 individuals to have pl-HPP caused by a homozygous c. 1559delT mutation .
+Recent genome-wide association studies have pointed to single-nucleotide polymorphisms ( SNPs ) in genes encoding the neuronal calcium channel CaV1 .2 ( CACNA1C ; rs1006737 ) and the presynaptic active zone protein Piccolo ( PCLO ; rs2522833 ) as risk factors for affective disorders , particularly major depression .
+Previous neuroimaging studies of depression-related endophenotypes have highlighted the role of the subgenual cingulate cortex ( CG25 ) in negative mood and depressive psychopathology .
+To investigate the combined effects of rs1006737 and rs2522833 on the CG25 response , we conducted three functional magnetic resonance imaging studies of episodic memory formation in three independent cohorts ( N = 79 , 300 , 113 ) .
+Moreover , PCLO risk allele carriers showed lower memory performance and reduced encoding-related hippocampal activation .
+The classical phenotype is characterized by early childhood onset and chronic progressive neurological deterioration with cerebellar ataxia , spasticity , optic atrophy and epilepsy .
+Whole-exome sequencing identified two heterozygous mutations in the EIF2B5 gene : a known mutation , c. 584G > A ( R195H , which is homozygous in CLE ) , and a novel mutation , c. 1223T > C ( I408T , which resides in the `` I-patch '' ) .
+Rectum biopsies revealed an intestinal ganglioneuromatosis , which is usually associated with multiple endocrine neoplasia ( MEN ) syndrome type 2B .
+Histology showed a medullary microcarcinoma .
+In a large inbred family from Campania , a frameshift mutation ( 84-88 insC ) in exon 2 that causes a premature stop codon ( E60X ) is identified .
+Based on their positions , the effects of the identified mutations on the 2 TFR2 forms are expected to differ .
+M172K has a complex effect : it causes a missense in the alpha-form , but it may also prevent the beta-form production because it affects its putative initiation codon .
+Idiopathic basal ganglia calcification ( IBGC ) is a rare neuropsychiatric disorder characterized by bilateral and symmetric cerebral calcifications .
+Sanger sequencing was employed to screen mutations within SLC20A2 in two IBGC families and 14 sporadic IBGC cases from a southern Han Chinese population .
+The aim of this study was to evaluate the association between various cytokine gene polymorphisms and lung cancer ( LC ) susceptibility .
+The combined odds ratio ( OR ) with 95 % confidence interval ( 95 % CI ) was calculated to estimate the strength of the association in a fixed or random effect model .
+Heterogeneity and publication bias were also assessed .
+But , other gene polymorphisms did not reach statistical associations .
+Due to the limitation of the number of the studies , we should take the conclusion with caution .
+The role of haplotypes and the interaction of haplotypes and smoking in lung cancer risk have not been well characterized .
+Sliding window haplotype analysis within chromosome 15 , evaluating 4722250 haplotypes and pair-wise haplotype analysis identified that CHRNA5 rs588765-rs16969968 was the most significant haplotype associated with lung cancer risk ( omnibus P = 8.35 x10 ( -15 ) in discovery and 7.26 x10 ( -14 ) in replication ) , and improved the prediction of case status over that provided by the individual SNPs rs16969968 or rs588765 ( likelihood ratio test P = 0.006 for rs16969968 and 3.83 x10 ( -14 ) for rs588765 in discovery , 0.009 for rs16969968 and 4.62 x10 ( -13 ) for rs588765 in replication , compared with rs588765-rs16969968 ) .
+Compared with the wild-type homozygous diplotype , CA/CA homozygote exhibited an approximately 2-fold increase risk for lung cancer ( OR = 2.12 ; 95 % CI 1.46-3 .07 in discovery , and OR = 2.01 ; 95 % CI 1.51-2 .67 in replication ) .
+Even among never-smokers , CA/CA homozygote showed an increased risk of lung cancer with borderline significance in discovery ( adjusted OR = 1.75 , 95 % CI 0.96-3 .19 ) and statistical significance in replication ( adjusted OR = 2.10 , 95 % CI 1.12-3 .96 ) , compared with combined genotypes ( CG/CG + CG/TG ) .
+Accordingly , rs588765-rs16969968 may be a genetic marker to lung cancer risk , even among never-smokers .
+Several studies have identified a functional single nucleotide polymorphism 1858C/T in the PTPN22 gene to be associated with several autoimmune diseases .
+Association studies of this polymorphism with familial and sporadic systemic lupus erythematosus ( SLE ) have shown some discrepancies .
+To our knowledge , this is the first study that includes only pediatric-onset SLE patients .
+We performed a case-control association study in 250 unrelated Mexican patients with childhood-onset SLE consisting of 228 cases with sporadic SLE and 22 cases with familial SLE and 355 healthy controls .
+The association was also observed when only sporadic cases were analyzed ( OR = 3.19 ) .
+Low-density lipoprotein receptor ( LDLR ) is a major apolipoprotein E ( APOE ) receptor and thereby is critical to cholesterol homeostasis and , possibly , Alzheimer disease ( AD ) development .
+We previously identified a single nucleotide polymorphism ( SNP ) , rs688 : C > T , that modulates LDLR exon 12 splicing and is associated with cholesterol levels in premenopausal women and with Alzheimer disease in men .
+Although SFRS3 and SFRS13A specifically increased the LDLR transcript lacking exon 11 , SFRS13A-2 and RBMX primarily increased the LDLR isoform lacking both exons 11 and 12 .
+This mutation constitutively activates the mammalian target of rapamycin ( mTOR ) signaling pathway .
+No objective responses were noted .
+In conclusion , everolimus does not result in appreciable clinical activity in patients with SM .
+Seven single nucleotide polymorphisms ( SNPs ) ( rs3856806 in PPARG , rs7014346 in POU5F1P1 , rs989902 in PTPN13 , rs1801278 in IRS1 , rs7003146 in TCF7L2 , rs1503185 in PTPRJ , and rs63750447 in MLH1 ) were genotyped in Han Chinese subjects , including 216 patients with breast cancer and 216 matched controls , using the Sequenom MassARRAY platform .
+The association of genotypes with susceptibility to breast cancer was analyzed using the odds ratio ( OR ) , with 95 % confidence interval ( CI ) and logistic regression .
+Three SNPs ( rs7014346 , rs989902 , and rs7003146 ) were found to be significantly associated with the susceptibility of breast cancer .
+The GA and AA genotypes of rs7003146 in TCF7L2 , and the CA and CC genotype of rs989902 in PTPN13 were associated with reduced breast cancer risk in the Chinese Han population based on the best-fit dominant model .
+The GG genotype of rs7014346 in POU5F1P1 was also significantly associated with decreased breast cancer risk under the best-fit additive model .
+Our results confirmed the association of rs7014346 in POU5F1P1 , rs989902 in PTPN13 , and rs7003146 in TCF7L2 with variations in the risk of breast cancer in a Chinese Han population .
+Our results confirmed the association of rs7014346 in POU5F1P1 , rs989902 in PTPN13 , and rs7003146 in TCF7L2 with variations in the risk of breast cancer in a Chinese Han population .
+Recent research has shown an association between the minor allele ( C ) of single-nucleotide polymorphism rs35369693 located on the AVP 1B receptor gene and childhood aggression .
+MATERIALS AND METHODS : The present study sought to replicate the association between rs35369693 and aggression using a sample of clinically referred children ( N = 141 ) with behavioural problems .
+RESULTS : Analyses confirmed a significant relationship between the minor C allele on rs35369693 and teacher-rated reactive aggression .
+We performed a genome-wide association study of 2,000 individuals with Parkinson 's disease ( cases ) and 1,986 unaffected controls from the NeuroGenetics Research Consortium ( NGRC ) .
+The association peak we found was at rs3129882 , a noncoding variant in HLA-DRA .
+Two studies have previously suggested that rs3129882 influences expression of HLA-DR and HLA-DQ .
+The brains of individuals with Parkinson 's disease show upregulation of DR antigens and the presence of DR-positive reactive microglia , and nonsteroidal anti-inflammatory drugs reduce Parkinson 's disease risk .
+BACKGROUND : Hydroxymethylglutaryl-Coenzyme A Reductase ( HMGCR ) catalyzes the rate-limiting step of cholesterol biosynthesis .
+In this population-based case-control study , the frequencies of -911 C > A polymorphism ( rs3761740 ) of the HMGCR gene in patients with coronary heart disease ( CHD ) and healthy subjects were investigated and the correlations between the different genotypes and hypercholesterolemia with cardiovascular risk factors were analyzed .
+Neurophysiological findings ( electroencephalography and evoked potentials ) confirmed possible cerebral cortex and white matter involvement regardless of the clinical symptoms displayed .
+In order to explain the wide phenotypic variability observed in this family , it is hypothesised that additional genetic and environmental ( hormonal ) factors play a role in the pathophysiology of the disease .
+The prevalence of five ophthalmic features , visual impairment , amblyopia , strabismus , corneal abnormality , and pale optic discs , were compared between the two FGFR2 genotypes .
+There was a trend of more frequent amblyopia and strabismus in FGFR2 Ser252Trp mutation and more frequent optic disc pallor in the FGFR2 Pro253Arg mutation .
+OBJECTIVE : Recently , the association of the natural variants rs1260326 and rs780094 of the glucokinase regulatory protein ( GCKR ) gene with increased fasting triglycerides and decreased fasting plasma glucose in diabetic adults was reported ; the minor alleles were also found to reduce the risk of type 2 diabetes .
+The present study examined the possible associations of these variants with triglycerides and glucose levels , their allele distribution and their possible effects on childhood obesity .
+Both functional GCKR variants were found in association with elevated serum triglycerides and lower fasting plasma glucose levels .
+Results of logistic regression revealed that , despite higher triglyceride levels , the carriers of the GCKR variants were more protected against the development of obesity ; the adjusted models confirmed the lower risk of obesity for both variants ( rs1260326 : OR , 0.46 ; 95 % CI , 0.25-0 .83 ; rs780094 : OR , 0.41 ; 95 % CI , 0.23-0 .74 ) .
+The findings also suggest that the minor alleles of functional GCKR may protect against diabetes and the metabolic syndrome in adults .
+Acute-pancreatitis diagnosis criteria were abdominal pain , increased serum amylase levels , and positive findings on abdominal imaging .
+The patients were observed until discharge .
+RESEARCH DESIGN AND METHODS : We measured body weight , waist-to-hip ratio ( WHR ) , adjusted resting metabolic rate , fasting blood glucose , fasting serum insulin levels , insulin resistance index ( fasting glucose x fasting insulin/22 .5 ) , and HbA1c levels before and after 12 weeks of obesity treatment in 61 obese women with type 2 diabetes .
+Blood samples were obtained , determining the following TLRs : TLR1 rs5743611 , TLR2 rs5743704 , TLR3 rs3775291 , TLR3 rs5743305 , TLR4 rs4986790 , TLR4 rs4986791 , TLR5 rs5744174 , TLR6 rs5743795 , TLR7 rs2302267 , TLR9 rs352140 , and TLR10 rs4129009 .
+RESULTS : No TLR polymorphism was related to AP incidence .
+Regarding severity , CC genotype patients in TLR3 rs3775291 had an increased risk for severe pancreatitis ( CC odds ratio [ OR ] , 2.426 ; P = 0.015 ) .
+In addition , TLR6 rs5743795 GG genotype patients had a lower risk for severe AP ( GG OR , 0.909 ; P < 0.05 ) .
+Intensive care unit admission was related to TLR5 rs5744174 homozygote TT carriers ( TT OR , 3.367 ; P = 0.036 ) .
+Intensive care unit admission was related to TLR5 rs5744174 homozygote TT carriers ( TT OR , 3.367 ; P = 0.036 ) .
+CONCLUSIONS : Our article points to genetic polymorphisms in TLR3 and TLR6 as having a plausible role in the occurrence of severe AP .
+BACKGROUND : Meta-analysis in European population found no association between rs12425791/rs11833579 and ischemic stroke .
+Several studies focused on East Asians have evaluated the association between this two SNPs and risk of ischemic stroke , but the results have been inconsistent .
+The aim of this study was to perform a meta-analysis to investigate a more authentic association between rs12425791 and rs11833579 G > A mutation and ischemic stroke in East Asian population , as well as in Chinese Han population .
+Study selection , data abstraction and study quality evaluation were independently conducted in duplicate .
+Statistical analyses were performed using software Stata 11.0 .
+The pooled odds ratios ( ORs ) with 95 % confidence intervals ( 95 % CIs ) were performed .
+For rs12425791 , significant association was found in allelic model ( OR = 1.06 , 95 % CI = 1.00-1 .11 ) and dominant model ( OR = 1.10 , 95 % CI = 1.03-1 .18 ) , whereas no evidence of association was found for additive model ( OR = 1.04 , 95 % CI = 0.93-1 .17 ) and for recessive model ( OR = 0.99 , 95 % CI = 0.88-1 .10 ) .
+For rs11833579 , no evidence of association was found for all genetic models .
+CONCLUSIONS : In summary , our meta-analysis suggests that rs12425791 is significantly associated with ischemic stroke in East Asian population but not Chinese Han population , of which A alleles increase the risk of ischemic stroke , whereas no evidence of association was found for rs11833579 in East Asian population as well as Chinese Han population .
+More than 60 % of low-grade non-invasive papillary urothelial cell carcinomas contain activating point mutations of fibroblast growth factor receptor 3 ( FGFR3 ) .
+The phenotypic consequences of constitutive activation of FGFR3 in bladder cancer have not been elucidated and further studies are required to confirm the consequences of inhibiting receptor activity in urothelial cells .
+We measured FGFR3 transcript levels and demonstrated that transcript levels were significantly more abundant in low-stage and grade tumours .
+We identified a tumour cell line , 97-7 , expressing the most common FGFR3 mutation ( S249C ) at similar FGFR3 transcript levels to low-stage and grade tumours .
+In these cells , S249C FGFR3 protein formed stable homodimers and was constitutively phosphorylated .
+We used retrovirus-mediated delivery of shRNA to knockdown S249C FGFR3 .
+This induced cell flattening , decreased cell proliferation and reduced clonogenicity on plastic and in soft agar .
+However , no effects of knockdown of wild-type FGFR3 were observed in telomerase immortalized normal human urothelial cells , indicating possible dependence of the tumour cell line on mutant FGFR3 .
+AIMS : To investigate if the single nucleotide polymorphisms rs3753841 , rs1015213 and rs11024102 , recently implicated in the development of acute primary angle closure or primary angle closure glaucoma , are associated with ocular biometric characteristics of British adults in the European Prospective Investigation of Cancer-Norfolk eye study .
+METHODS : Genotyping data on rs1015213 ( between PCMTD1 and ST18 ) , rs11024102 ( at PLEKHA7 ) and rs3753841 ( at COL11A1 ) were available on 3268 participants .
+RESULTS : Presence of at least one A allele ( AG or AA genotype ) for rs1015213 was associated with a shallower ACD ( -0.07 mm , 95 % CI -0.01 to -0.14 mm , p = 0.028 ) after adjusting for age and sex ( both p < / = 0.001 ) .
+There was no association with AL or corneal keratometry for rs1015213 genotypes .
+CONCLUSIONS : This study suggests that primary angle closure glaucoma susceptibility at the PCMTD1-ST18 locus may be partly explained by an association between rs1015213 and ACD in European populations .
+No relation could be traced among the different families ; however , all their ancestors were autochthonous of the same two small towns .
+Furthermore , no Jewish ancestry could be found .
+The compound heterozygosis with the Glu 117 stop mutation , common among Jews , was not surprising because of the past strict ties of the Republic of Venice with the Middle East .
+The hypothesis underlying this study is that variations in genes involved in methionine metabolism may contribute to genetic susceptibility for early-onset ischaemic stroke .
+We investigated 58 polymorphisms in AHCY , BHMT , BHMT2 , CBS , ENOSF1 , FOLH1 , MTHFD1 , MTHFR , MTR , MTRR , NNMT , PON1 , PON2 , SLC19A1 , SHMT1 , TCN2 , TYMS genes on genomic DNA from 501 young patients who survived ischaemic stroke and 1,211 sex and age comparable controls .
+Genotype distribution was significantly different between patients and controls for the following SNPs : rs10037045 BHMT , rs682985 BHMT2 , rs1051319 CBS , rs202680 FOLH1 , rs2274976 MTHFR , rs1979277 SHMT1 , rs20721958 TCN2 .
+However , the frequency of TLR2 -196 to -174 ins/del + del/del and TLR4 +896 AG genotypes was significantly higher ( P < 0.01 and P = 0.01 , respectively ) in the cancer group ( 33.4 % and 11.5 % , respectively ) than in the control group ( 16.9 % and 4.5 % , respectively ) .
+CONCLUSION : Our data indicate that TLR2 -196 to -174 del and TLR4 +896 G may increase the risk of gastric cancer in a Brazilian population .
+The modulation of JAK2 V617F allele burden dynamics was prospectively analysed in 47 patients ( 26 polycythaemia vera [ PV ] and 21 essential thrombocythaemia [ ET ] ) treated with first-line hydroxyurea ( HU ) and compared with the JAK2 V617F dynamics of a control group of 45 PV and ET patients .
+INTRODUCTION : The p75 neurotrophin receptor has been recognized as a death-signalling molecule under certain circumstances .
+Its role in motor neuron degeneration in amyotrophic lateral sclerosis ( ALS ) was analysed in SOD1-G93A transgenic mice and in spinal cords from human amyotrophic lateral sclerosis .
+METHOD : The precise loss of motor neurons in SOD1-G93A transgenic mice from birth to adulthood was established using the unbiased fractionator/optical dissector neuronal counting technique .
+RESULTS : This study showed an early trend in the loss of lumbar motor neurons in SOD1-G93A mice , beginning at birth and progressing to a massive 80 % reduction by 4 months of age , when the disease is severe .
+RESULTS AND CONCLUSIONS : Results showed that rs1805414 was associated with a significantly increased susceptibility to breast cancer , significant risk being observed for the TC , CC and TC+CC genotypes .
+In conclusion PARP1 rs1805414 SNP polymorphisms may be involved in the etiology of breast cancer in the Saudi population .
+In contrast , PARP1 rs1805404 did not show any significant association in overall in breast cancer samples when compared to healthy controls .
+However , the causes of onset and progression of motor neuron death are still largely unknown .
+In about 2 % of all cases , mutations in the gene encoding for the Cu/Zn superoxide dismutase ( SOD1 ) are implicated in the disease .
+Several alterations in the expression or activation of cell cycle proteins have been described in the neurodegenerative diseases and related to cell death .
+In this work we show that mutant SOD1 can alter cell cycle in a cellular model of ALS .
+Our findings suggest that modifications in the cell cycle progression could be due to an increased interaction between mutant G93A SOD1 and Bcl-2 through the cyclins regulator p27 .
+As previously described in post mitotic neurons , cell cycle alterations could fatally lead to cell death .
+Significant association between NQO1 rs1800566 genetic polymorphism and risk of bladder cancer was observed in the additive model ( OR = 1.15 , 95 % CI = 1.01-1 .30 , p = 0.030 ) .
+CONCLUSIONS : The results suggest that NQO1 rs1800566 genetic polymorphism may contribute to bladder cancer development , especially in Asians .
+RESULTS : In the pooled analysis with multiple cancer types , patients carrying the CYP2C8 rs1934951 AA or AG genotype showed no significantly increased BONJ susceptibility compared with those carrying the wild GG genotype [ dominant : odds ratio ( OR ) = 2.05 , 95 % confidence interval ( CI ) = 0.67-6 .29 , p = 0.209 ; recessive : OR = 1.88 , 95 % CI = 0.23-15 .6 , p = 0.560 ; AG vs. GG : OR = 2.07 , 95 % CI = 0.80-5 .32 , p = 0.133 , and AA vs. GG : OR = 1.34 , 95 % CI = 0.48-3 .74 , p = 0.578 ] .
+A significant association between AA and AG genotypes of CYP2C8 ( rs1934951 ) and BONJ risk was found in the subgroup analysis of multiple myeloma ( dominant : OR = 5.77 , 95 % CI = 1.21-27 .63 , p = 0.028 ; AG vs. GG : OR = 5.02 , 95 % CI = 2.06-12 .23 , p = 0.001 , and AA vs. GG : OR = 16.23 , 95 % CI = 1.72-78 .7 , p = 0.015 ) .
+CONCLUSION : The results indicated that AA and AG genotypes of CYP2C8 ( rs1934951 ) might be predictors for multiple myeloma patients at high risk to develop BONJ .
+We discuss the role of the A91V change together with M. tuberculosis infection as synergistic factors in the late onset of FHL .
+The endothelins are among the most potent vasoconstrictors known .
+Pharmacological inhibition of endothelin receptors lowers blood pressure ( BP ) .
+We have evaluated the type A endothelin receptor ( EDNRA ) as a candidate gene for hypertension in a large family study .
+A total of 1425 members of 248 families selected via a proband with hypertension were studied .
+Four haplotype-tagging single nucleotide polymorphisms ( SNPs ) spanning the EDNRA gene were typed .
+There was evidence of association between genotype at the rs5335 ( C +70 G ) SNP and night systolic blood pressure ( +1.24 % ( s.e. 0.64 ) per G allele ; P = 0.05 ) ; night diastolic blood pressure ( +1.64 % ( s.e. 0.71 ) per G allele ; P = 0.021 ) and night mean BP ( +1.51 % ( s.e. 0.64 ) per G allele ; P = 0.017 ) .
+Borderline significant trends in the same direction were seen for daytime BPs .
+Proportions of hypertensives in each of the three genotype groups were C/C 34.7 % , C/G 37.9 % , G/G 42.4 % yielding an odds ratio for hypertension per G allele of 1.19 ( 95 % confidence interval 1.00-1 .41 ; P = 0.05 ) .
+In conclusion , the rs5335 ( C +70 G ) polymorphism of the EDNRA gene has small effects on the risk of hypertension .
+The distribution of OGG1 Ser326Cys genotype among controls ( Ser/Ser , 28.3 % ; Ser/Cys , 49.2 % ; and Cys/Cys , 22.5 % ) was not different from that among cases ( Ser/Ser , 29.0 % ; Ser/Cys , 51.4 % ; and Cys/Cys , 24.0 % ) .
+The sex-age adjusted odds ratio ( OR ) was 1.06 with 95 % confidence interval ( CI ) 0.64-1 .76 for Ser/Cys genotype and 0.81 with 0.44-1 .52 for Cys/Cys genotype .
+This study supported the first study by Sugimura et al ( Cancer Epidemiol Biomarkers Prev , 1999 ; 8 : 669-674 ) , that the association of OGG1 Ser326Cys polymorphism was limited for the risk of lung adenocarcinoma .
+Our previous epidemiologic study reported that NAD ( P ) H : quinone oxidoreductase 1 ( NQO1 ) 609C/C with full enzyme activity was a high risk genotype for Helicobacter pylori ( H. pylori ) seropositivity .
+Since NQO1 stabilizes ornithine decarboxylase ( ODC ) , which attenuates the innate immune response through elevated polyamines , ODC functional polymorphisms may also influence H. pylori seropositivity .
+This study aimed to examine the association with ODC A317G polymorphism , as well as the modification by NQO1 C609T .
+The two polymorphisms were determined by polymerase chain reaction with confronting two-pair primers ( PCR-CTPP ) among 465 health checkup examinees in Nagoya .
+The ODC A317G genotype frequency was 35.9 % for A/A , 49.3 % for A/G , and 14.8 % for G/G .
+The sex-age-adjusted odds ratio ( OR ) of the ODC gene for H. pylori seropositivity was not significant ( OR = 1.09 for G/A and OR = 1.02 for G/G , relative to A/A ) .
+Among subjects with any NQO1 genotype , no association was observed between the ODC ploymorphism and H. pylori seropositivity .
+Results of the present study did not support the hypothesis that the different genetic traits in the ODC-polyamine pathway are associated with susceptibility to persistent H. pylori infection .
+The higher frequency of the ODC 317A allele in the Japanese population than that in the Caucasian population is firstly reported .
+The genetic traits through the ODC-polyamine pathway will be further investigated .
+The late-infantile form of neuronal ceroid lipofuscinosis ( LINCL ) is a progressive and ultimately fatal neurodegenerative disease of childhood .
+The defective gene in this hereditary disorder , CLN2 , encodes a recently identified lysosomal pepstatin-insensitive acid protease .
+To better understand the molecular pathology of LINCL , we conducted a genetic survey of CLN2 in 74 LINCL families .
+In 14 patients , CLN2 protease activities were normal and no mutations were identified , suggesting other forms of NCL .
+Both pathogenic alleles were identified in 57 of the other 60 LINCL families studied .
+RESULTS : Two miR-185 SNPs provided suggestive evidence of an inverse association with breast cancer risk ( rs2008591 , OR = 0.72 ( 95 % CI = 0.53-0 .98 , p value = 0.04 ) and rs887205 , OR = 0.71 ( 95 % CI = 0.52-0 .96 , p value = 0.03 ) , respectively ) among African Americans .
+Two SNPs , miR-34b / 34c ( rs4938723 , HR = 0.57 ( 95 % CI = 0.37-0 .89 , p value = 0.01 ) ) and miR-206 ( rs6920648 , HR = 0.77 ( 95 % CI = 0.61-0 .97 , p value = 0.02 ) ) , provided evidence of association with breast cancer survival .
+Further adjustment for stage resulted in more modest associations with survival ( HR = 0.65 [ 95 % CI = 0.42-1 .02 , p value = 0.06 ] and HR = 0.79 [ 95 % CI = 0.62-1 .00 , p value = 0.05 , respectively ] ) .
+CONCLUSIONS : Our results suggest that germline variation in the 5 ' region proximal to pre-miRNA gene sequences may be associated with breast cancer risk among African Americans and breast cancer-specific survival generally ; however , further validation is needed to confirm these findings .
+Essential thrombocythemia ( ET ) is extremely rare in the pediatric population .
+In most patients no molecular abnormality can be found , with about 40 % of pediatric patients harboring a JAK2 V617F mutation .
+Another recurrent mutation , involving a W to L or K transversion at MPL codon 515 , has been reported in about 3-8 % of adult ET patients .
+Herein we describe this mutation in a pediatric patient .
+OBJECTIVES : This analysis examined the association between oral hygiene and head and neck cancer ( HNC ) and whether this association differed by the consumption of alcohol , betel quid , or cigarette and by the genetic polymorphisms of inflammation-related genes .
+MATERIALS AND METHODS : Interviews regarding dental care and oral health were conducted with 317 HNC cases and 296 controls .
+Genotyping was performed for 6 single nucleotide polymorphisms in IL6 , IL10 and PTGS2 .
+RESULTS : A positive association was observed between HNC and no regular dental visits ( odds ratio ( OR ) = 2.86 , 95 % confidence interval ( CI ) : 1.47-5 .57 ) , brushing teeth < 2times/day ( OR = 1.51 , 95 % CI : 1.02-2 .23 ) , frequent gum bleeding ( OR = 3.15 , 95 % CI : 1.36-7 .28 ) , and loss of > 20 teeth ( OR = 2.31 , 95 % CI : 1.05-5 .07 ) .
+Analysis with dental care score ( range : 0-4 , 4 = worst dental care ) , which combined regular dental visits , toothbrushing , and use of dental floss and mouthwash , showed a positive trend with HNC risk , particularly among alcohol drinkers and cigarette smokers .
+Multifactor dimensionality reduction analysis divided the study subjects into high - and low-risk group based on combinations of dental care score and IL6 rs1800796 genotypes .
+Compared to the low-risk group , the high-risk group had an OR of HNC = 2.16 ( 95 % CI : 1.44-3 .25 ) .
+CONCLUSIONS : This study observed a positive association between poor oral hygiene and HNC , which appeared to differ by alcohol or cigarette consumption and the genotypes of IL6 rs1800796 .
+Further investigations are needed to determine whether poor oral hygiene is a cause for HNC or a surrogatemarker of an unhealthy lifestyle that increases the risk of HNC .
+OBJECTIVE : Toll-like receptors , a major component of the innate immune system , play an important role in the initial response against pathogens .
+Genetic abnormalities in some receptors like TLR2 , TLR3 and TLR4 have been associated with susceptibility to fungal and viral infections while other aberrations in TLR genes such as TLR3 , TLR7 and TLR9 may predispose to autoimmunity .
+Recently we have shown an association of a TLR3 receptor variant , L412F , to susceptibility to chronic candidiasis , recurrent viral and bacterial infections and autoimmunity .
+We investigated here the biological implications of this TLR3 mutant .
+METHODS : To study the functional impact of the L412F variant of TLR3 we tested patients ' peripheral blood mononuclear cells ( PBMCs ) as well as fibroblasts for secretion of cytokines in response to TLR3 ligand , candida or cytomegalovirus ( CMV ) .
+In addition , the P2 .1 cell line was used as a model for the TLR3 WT and L412F variant receptors function .
+RESULTS : Patient 's cells carrying the L412F variant showed reduced IFNgamma as well as TNFalpha secretion in response to stimulation with the TLR3 ligand , CMV or Candida albicans .
+Fibroblasts with the L412F variant showed decreased secretion of IFNlambda in response to stimulation with both polyinosine ploycytidylic acid ( Poly I : C ) and CMV and P2 .1 cells transfected with the L412F variant showed reduced secretion of IFN-beta in comparison to cells transfected with the wild type receptor .
+CONCLUSION : We have shown here aberrant biological responses mediated by the TLR3 variant receptor , L412F , which may explain in part susceptibility of patients to chronic candidiasis , viral infections and autoimmunity .
+The metabolic syndrome ( MetS ) is characterized by constellation of clinical and biochemical features that increase the risk of cardiovascular disease .
+Neuropeptide Y ( NPY ) is a neurotransmitter and enhances the development of obesity and other aspects of MetS .
+We determined the association between NPY Leu7Pro polymorphism and features of MetS in Iranian patients with coronary artery disease ( CAD ) .
+A total of 550 patients with CAD including individuals with ( n = 184 ) and without MetS ( n = 366 ) were genotyped by polymerase chain reaction-restriction fragment length polymorphism .
+In similar analyses , the association of rs7040024 among men with seminomatous tumors did not differ from that among men with non-seminomatous tumors .
+The G allele of rs2735839 was associated with disease aggressiveness even at low PSA levels ( < 4.0 ng/mL ) in both European and African-American men .
+Our results provide further support that a PC-risk SNP rs2735839 near the KLK3 gene on chromosome 19q13 may be associated with aggressive and high-grade PC .
+Because the I214M amino acid substitution in the NEFL protein was not detected in a CMT affected brother of the proband , its pathogenic effect became unclear .
+In order to determine whether this amino acid substitution is a benign polymorphism or causative of the disease , we performed a functional analysis of the mutant I214M neurofilament protein ( NFL ) .
+Transfections of the mutant protein in cultured cells revealed an increased tendency to form highly compacted filamentous structures but no other alterations of neurofilament assembly or transport were observed .
+Furthermore , the sibling of one of the patients was also affected with CMT but did not have the I214M substitution .
+These data suggest that this I214M substitution in the NEFL gene was not a direct cause of the disease but could be a polymorphism or possibly a modifier of the CMT phenotype .
+BACKGROUND : Thiopurine S-methyltransferase ( TPMT ) is an enzyme involved in the normal metabolic inactivation of thiopurine drugs .
+Patients with intermediate or no TPMT activity are at risk of toxicity after receiving standard doses of thiopurine drugs and it was shown that inter-individual differences in response to these drugs is largely determined by genetic variation at the TPMT locus .
+OBJECTIVE : This study was designed to investigate in the Sardinian population the frequency distribution of four of the most common variants accounting for TPMT deficiency and to conduct comparative analyses with other populations in order to obtain insights into the main factors that have shaped diversity at the TPMT locus in Sardinia .
+METHODS : DNA was extracted in 259 Sardinians and the frequencies of allelic variants of TPMT were determined using polymerase chain reaction-restriction fragment length polymorphism technique .
+RESULTS : Among the 259 Sardinians genotyped , 6.95 % were found to be heterozygous for one of four TPMT variants screened ; for each variant the frequency estimate was 1.74 % , 0.58 % , 0.39 % and 0.77 % for TPMT * 2 , TPMT * 3A , TPMT * 3B and TPMT * 3C respectively .
+CONCLUSIONS : Although Sardinia does not show reduced diversity at the TPMT locus , the spectrum of TPMT allele frequencies affords evidence of remarkable influence of genetic drift and founder effects throughout its population history .
+In the broad context of the European TPMT diversity , the Sardinians come out as outliers , an observation consistent with previous genetic inferences that Sardinia has features of a genetic isolate .
+Genome-wide association studies have identified thousands of SNPs associated with predisposition to various diseases , including prostate cancer .
+However , the mechanistic roles of these SNPs remain poorly defined , particularly for noncoding polymorphisms .
+Here we find that the prostate cancer risk-associated SNP rs339331 at 6q22 lies within a functional HOXB13-binding site .
+Finally , we observe a significant association between the risk-associated T allele at rs339331 and increased RFX6 mRNA levels in human prostate tumors .
+Together , our results suggest that rs339331 affects prostate cancer risk by altering RFX6 expression through a functional interaction with the prostate cancer susceptibility gene HOXB13 .
+RESULTS : Heterozygote carriers and minor allele homozygote carriers for SNP rs889312 in the MAP3K1 gene were less likely to be lymph node positive at breast cancer diagnosis ( P = 0.044 ) relative to major allele homozygote carriers .
+Heterozygote carriers and minor allele homozygote carriers for SNP rs3803662 near the TNCR9 gene were more likely to be diagnosed before the age of 60 years ( P = 0.025 ) relative to major allele homozygote carriers .
+We also noted a correlation between the number of minor alleles of rs2981582 in FGFR2 and the average number of first-degree and second-degree relatives with breast cancer and/or ovarian cancer ( P = 0.05 ) .
+Gene polymorphisms in NAT2 ( rs4271002 ) , Nrf2 ( rd6726395 ) , and GSTP1 ( rd1695 ) increased the risk of treatment for asthma within the last 12 months .
+Sorafenib is a small molecule that blocks the activation of C-RAF , B-RAF , c-KIT , FLT-3 , RET , VEGFR-2 , VEGFR-3 and PDGFR approved for advanced renal cell and hepatocellular carcinoma ( b , c ) .
+Functional assays of rs1867277 ( .3 : c.-283G > A ) within the FOXE1 5 ' UTR suggested that this variant affects FOXE1 transcription .
+We propose a FOXE1 regulation model dependent on the rs1867277 genotype , indicating that this SNP is a causal variant in thyroid cancer susceptibility .
+No individual within this family met diagnostic criteria for any previously described clinical syndrome , including Alagille syndrome ( AGS ) , caused by haploinsufficiency for jagged1 .
+The glycine corresponding to position 274 is highly conserved in other epidermal growth factor-like domains of jagged1 and in those of other proteins .
+BACKGROUND : Controversy remains for the association between hepatocyte nuclear factor 4alpha ( HNF-4alpha ) P2 promoter polymorphism rs1884613 and type 2 diabetes ( T2D ) .
+There was no association test of this polymorphism with prediabetes and T2D in the Chinese population .
+RESULTS : Polymorphism rs1884613 was associated with genetic susceptibility to prediabetes in the whole samples ( OR = 1.40 , 95 % CI = 1.16-1 .68 , P = 0.0001 ) and the female subgrouped samples ( OR = 1.48 , 95 % CI = 1.14-1 .92 , P = 0.003 ) after adjusting for age and body-mass index ( BMI ) .
+In contrast , there was no association of rs1884613 with T2D in the whole samples and male in our case-control study and meta-analysis .
+CONCLUSIONS : Our results suggest that rs1884613 contributes to susceptibility to prediabetes , whereas this polymorphism may not play an important role in the development of T2D .
+Recently , two genome-wide association studies identified a significant association between the prostate stem cell antigen ( PSCA ) rs2294008 ( C > T ) polymorphism and risk of diffuse-type of gastric cancer in Asians and bladder cancer in Caucasians , respectively .
+We genotyped the rs2294008 polymorphism and assessed its association with risk of bladder cancer and messenger RNA ( mRNA ) expression in normal bladder tissues .
+These results indicated that the rs2294008 polymorphism of PSCA gene may play a role in bladder cancer carcinogenesis and it could be served as a biomarker for genetic susceptibility to bladder cancer in Chinese populations .
+The most significant association with follicular lymphoma was for rs4530903 ( P ( FL ) = 2.69 x10 ( -12 ) , OR = 1.93 ) .
+Three novel SNPs near the HLA locus , rs9268853 , rs2647046 , and rs2621416 , demonstrated additional variation contributing toward genetic susceptibility to FL associated with this region .
+Mutations in the mu heavy chain are associated with a complete failure of B cell development in both humans and mice , whereas mutations in murine lambda5 result in a leaky phenotype with detectable humoral responses .
+In evaluating patients with agammaglobulinemia and markedly reduced numbers of B cells , we identified a boy with mutations on both alleles of the gene for lambda5/14 .1 .
+Among clinical trial participants , afatinib was generally well tolerated , with the most common grade I or II adverse events being diarrhea and rash or acne ; grade III or IV events were infrequent .
+The rs10828317 association was shown to be specifically associated with hyperdiploid ALL , whereas the rs3824662-associated risk was confined to nonhyperdiploid non-TEL-AML1 + ALL .
+Radiotherapy may have induced a carcinoma .
+Our study shows that mutation S1103Y does exist in the white population , and it is associated with a considerable risk of syncope , ventricular arrhythmia , ventricular fibrillation , and sudden death in this population .
+Only NOS2A rs2297518 was associated with colon cancer ( OR 0.86 95 % CI 0.74 , 0.99 ) and EPX rs2302313 and MPO rs2243828 were associated with rectal cancer ( OR 0.75 95 % CI 0.59 , 0.96 ; OR 0.81 95 % CI 0.67 , 0.99 respectively ) for main effects .
+In one kindred , KKESH-099 , we identified a homozygous R150Q alteration in RLBP1 , the gene encoding the cellular retinaldehyde binding protein , associated previously with both recessive retinitis pigmentosa ( arRP ) and RPA .
+Here , we studied a Chinese Han , GeneID cohort consisting of 650 AF patients and 1,447 non-AF controls to test whether the GWAS findings on ZFHX3/KCNN3 and AF can be expanded to a different ethnic population .
+No significant association was detected for rs7193343 in ZFHX3 and rs13376333 in KCNN3 .
+However , significant association was identified between rs2106261 in ZFHX3 and AF in the GeneID population for both allelic frequencies ( P = 0.001 after adjusting for covariates of age , gender , hypertension , coronary artery disease , and diabetes mellitus ; OR = 1.32 ) , and genotypic frequencies assuming either an additive or recessive model ( OR = 1.29 , P = 0.001 and OR = 1.77 , P = 0.00018 , respectively ) .
+The study expands the association between ZFHX3 and AF to a non-European ancestry population and provides the first evidence of a cross-race susceptibility of the 16q22 AF locus .
+We investigated whether variants in major candidate genes for food intake and body weight regulation contribute to obesity-related traits under a multilocus perspective .
+Regression models as well as generalized multifactor dimensionality reduction ( GMDR ) were employed to test the contribution of individual effects and higher-order interactions to BMI and waist-hip ratio ( WHR ) variation and risk of overweight/obesity .
+Our results suggest that homozygosity of the IL-10R1 G330R allele is associated with schizophrenia and may contribute to the expression of disease phenotype in susceptible individuals .
+Four of these contain plausible causative genes ( FGFR2 , TNRC9 , MAP3K1 and LSP1 ) .
+N6-methyladenosine ( m6A ) is the most abundant internal modification on RNA , which is highly enriched within the brain .
+RESULTS : Of the 23 SNPs selected , rs12936694 from the m6A demethylase gene ALKBH5 showed allelic association ( chi ( 2 ) = 11.19 , p = 0.0008 , OR = 1.491 , 95 % CI 1.179-1 .887 ) and genotypic association ( chi ( 2 ) = 12.26 , df = 2 , p = 0.0022 ) with MDD .
+LIMITATIONS : Replication and functional study are required to draw a firm conclusion .
+CONCLUSIONS : The ALKBH5 gene may play a role in conferring risk of MDD in the Chinese population .
+An increased oxidant burden has been implicated in hepatocarcinogenesis , and several antioxidant enzymes counteract potential oxidative damage .
+For the ECSOD Ala40Thr polymorphism , a significant association was observed between this polymorphism and HCC risk in non-hepatitis B virus ( HBV ) carriers but not in HBV carriers , and individuals with one 40Thr allele ( Ala/Thr genotype ) ( OR = 2.13 , 95 % CI = 1.25-3 .64 , P = 0.006 ) or at least one 40Thr allele ( Ala/Thr and Thr/Thr genotype ) ( OR = 1.90 , 95 % CI = 1.15-3 .15 , P = 0.012 ) showed significantly higher risk to HCC , compared with Ala/Ala genotype .
+Furthermore , no other signs of combined effects , except for a combined effect of ECSOD Ala40Thr and MnSOD Val16Ala in non-HBV carriers , were observed for each combination of these four polymorphisms .
+In conclusion , our results indicate that the antioxidant enzyme gene polymorphisms at least partially contribute to the susceptibility to HCC .
+Multi-way contingency tables were constructed and statistically evaluated using log-linear models .
+SETTING : Medical school laboratory and reproductive endocrine clinic.A 40-year-old male with idiopathic hypogonadotropic hypogonadism .
+Inflammation , whereby ICAM-1 plays an important role , has been implicated in the pathogenesis of MI .
+The associations between RP risk and genotypes were assessed by hazards ratio ( HR ) in Cox proportional hazards regression analysis with time to event considered with and without adjustment for potential confounders .
+Variations in the transcription factor 7-like 2 ( TCF7L2 ) gene , particularly rs7903146 , increase T2DM risk .
+Variant rs7903146 in the total study cohort was significantly associated with significant CAD ( adjusted additive OR = 1.29 [ 1.09-1 .53 ] ; p = 0.003 ) .
+TCF7L2 polymorphisms rs12255372 and rs11196205 were also significantly associated with CAD in diabetic patients ( adjusted additive OR = 1.90 [ 1.31-2 .74 ] ; p = 0.001 and OR = 1.75 [ 1.22-2 .50 ] ; p = 0.002 , respectively ) .
+CONCLUSIONS/SIGNIFICANCE : These results suggest that TCF7L2 variants rs7903146 rs12255372 , and rs11196205 are significantly associated with angiographically diagnosed CAD , specifically in patients with T2DM .
+Statistical analyses showed that the rs2295418 ( g.C925A ) variant in Lefty2 gene was obviously associated with the risk of CHD ( P value = 0.016 < 0.05 ) .
+The genotype frequency of rs360057 ( g.A1035C ) variant in Lefty1 gene was associated with the risk of CHD ( P value = 0.007 < 0.05 ) , but the allele frequency was not ( P value = 0.317 > 0.05 ) .
+CONCLUSIONS : The SNP rs2295418 in the Lefty2 gene is associated with CHD in Chinese Han populations .
+The combined analyses identified significant ( P < 5.0 x 10 ( -8 ) ) associations between NOA risk and common variants near PRMT6 ( rs12097821 at 1p13 .3 : odds ratio ( OR ) = 1.25 , P = 5.7 x 10 ( -10 ) ) , PEX10 ( rs2477686 at 1p36 .32 : OR = 1.39 , P = 5.7 x 10 ( -12 ) ) and SOX5 ( rs10842262 at 12p12 .1 : OR = 1.23 , P = 2.3 x 10 ( -9 ) ) .
+For esophagitis risk , nine SNPs were associated with a 1.5 - to 4-fold increase in risk , including three PTGS2 ( COX2 ) variants : rs20417 ( HR :1.93 , 95 % CI :1.10 -3.39 ) , rs5275 ( HR :1.58 , 95 % CI :1.09 -2.27 ) , and rs689470 ( HR :3.38 , 95 % CI :1.09 -10.49 ) .
+RESULTS : After adjustment for multiple comparisons , only one SNP , rs3024505 , was significantly associated with UC ( P = 0.001 ) .
+Only one SNP , rs3024505 ( Chr 1q32 .1 , upstream of IL10 ) , was associated with susceptibility to UC .
+The identification of this SNP replicates a finding from Franke et al ( 2008 ) , where the rs3024505 SNP was strongly associated with UC across multiple European populations .
+Single nucleotide polymorphism ( SNP ) rs710521 [ A ] , located near TP63 on chromosome 3q28 , was identified to be significantly associated with increased bladder cancer risk .
+The TNFA minor A-allele group also had a higher Multiple-Organ-Failure score of 0.26 ( 95 % CI : 0.03 , 0.49 ; p = 0.024 ) after adjustment for sex , race , age , and sepsis .
+Additionally , the associations are much pronounced in NHL patients with B-cell lymphomas or grade 3 or 4 disease .
+The three polymorphisms were identified in 296 ischemic stroke patients and 391 healthy controls using polymerase chain reaction-restriction fragment length polymorphism .
+However , we failed to find any association between the alleles and genotypes of rs2910164 C/G and rs11614913 T/C SNPs and ischemic stroke , respectively ( p > 0.05 ) .
+( Funded by the National Institutes of Health and others .
+Finally , the Alleles and genotype frequencies distribution of rs9272219 locus among RA patients and control subjects were in accordance with Hardy-Weinberg equilibrium .
+We found significant association between rs9272219 and RA of Chinese population ( OR 0.494 , 95 % confidence interval [ 95 % CI ] 0.354-0 .688 , P = 0 and OR 2.541 , 95 % CI 1.695-3 .808 , P = 0 , respectively ) .
+The data show that 28.7 % of myelomeningocele participants exhibit rating scale elevations consistent with ADHD ; of these 70.1 % had scores consistent with the predominantly inattentive subtype .
+We also performed a replication study of the untyped rs2075533 in an independent Texas population but did not confirm the protective effect .
+To address this question , we developed a metastatic BRAF ( V600E ) - mutant melanoma cell line and demonstrated that the antimetastatic properties of BRAF inhibitor PLX4720 ( a research analogue of vemurafenib ) require host natural killer ( NK ) cells and perforin .
+Indeed , PLX4720 not only directly limited BRAF ( V600E ) - induced tumor cell proliferation , but also affected NK cell functions .
+We showed that PLX4720 increases the phosphorylation of ERK1/2 , CD69 expression , and proliferation of mouse NK cells in vitro .
+NK cell frequencies were significantly enhanced by PLX4720 specifically in the lungs of mice with BRAF ( V600E ) lung metastases .
+The allelic association between schizophrenia and ADRA2A rs1800544 polymorphism , SNAP-25 rs1503112 polymorphism , and DRD3 rs6280 polymorphism was found in our study .
+Association was also evaluated by considering the polymorphisms as interactions ; in this case , a likelihood ratio test ( LRT ) revealed evidence for association with schizophrenia in four polymorphism combinations : two DRD3 * SNAP-25 combinations ( rs6280 * rs3746544 and rs6280 * rs3746544 , P = 0.02 ) , one ADRA2A * SNAP25 combination ( rs1800544 * rs3746544 ) and one ADRA2A * DBH combination ( rs1800544 * rs2519152 ) .
+We previously identified a missense polymorphism , rs1143679 ( R77H ) , strongly associated with systemic lupus erythematosus ( SLE ) .
+A significant association between BMP4 rs2761884 ( p = 0.03 ) and tendinopathy was observed .
+The FGF3 TGGTA haplotype showed a tendency of association with tendinopathy ( p = 0.05 ) , and so did FGF10 rs900379 .
+TLR4 rs10759932 decreased the risk of H. pylori infection ( OR : 0.59 , 95 % CI : 0.41-0 .86 ) .
+BACKGROUND : The association between rs11249433 polymorphism on 1p11 and breast cancer ( BC ) has been widely evaluated since it was first identified through genome-wide association approach .
+The association between the variation at the 9q22 locus near FOXE1 and thyroid cancer risk was consistent across all series , with several SNPs identified ( rs7028661 : OR = 1.64 , p = 1.0 x 10 ( -22 ) , rs7037324 : OR = 1.54 , p = 1.2 x 10 ( -17 ) ) .
+Moreover , the rare alleles of three SNPs ( rs2997312 , rs10788123 and rs1254167 ) at 10q26 .12 showed suggestive evidence of association with higher risk of the disease ( OR = 1.35 , p = 1.2 x 10 ( -04 ) , OR = 1.26 , p = 5.2 x 10 ( -04 ) and OR = 1.38 , p = 5.9 x 10 ( -05 ) , respectively ) .
+Finally , the rare allele of rs4075570 at 6q14 .1 conferred protection in the series studied ( OR = 0.82 , p = 2.0 x 10 ( -04 ) ) .
+Recently , the rs738409 I148M patatin-like phospholipase domain-containing 3 ( PNPLA3 ) polymorphism has been demonstrated to influence steatosis susceptibility and fibrosis progression in patients with different liver diseases , but no data are yet available for CHB .
+Evidence has shown linkage disequilibrium between rs3755724 ( -55 C/T ) of this gene with synapsin 2 ( SYN2 ) rs3773364 and peroxisome proliferator-activated G receptor ( PPARG ) rs2920502 loci , which contribute to epilepsy in Caucasians .
+These findings suggest that the rs1805794G > C of NBS1 may be a functional genetic biomarker for lung cancer .
+We identified the main features of Charcot-Marie-Tooth ( CMT ) disease , type 4F , caused by a periaxin gene ( PRX ) mutation in Japanese patients .
+We collected 427 DNA samples from individuals with CMT or CMT-related neuropathy , negative for PMP22 duplication .
+We investigated PRX mutations using a purpose-built resequencing array screen during the period 2006-2012 .
+We detected two types of PRX mutations in three patients ; one patient showed a novel homozygous p.D651N mutation and the other two showed homozygous p.R1070X mutation .
+All PRX mutations reported so far have been of nonsense or frameshift type .
+In comparison with normal subjects , a dramatically lower prevalence of the heterozygous genotype G/T at rs17849071 was found in patients with follicular thyroid cancer ( FTC ) .
+In contrast , no difference was seen with benign thyroid neoplasms in which the prevalence of rs17849071G/T was 13.1 % ( 17/130 ) , with an odds ratio of 0.83 ( 95 % CI 0.40-1 .69 ; P = 0.72 ) .
+There was a trend of lower prevalences of rs17849071G/T and odds ratio in other types of thyroid cancer without statistical significance .
+This provides an explanation for the reciprocal relationship of rs17849071G/T with FTC , since PIK3CA amplification is an important oncogenic mechanism in thyroid cancer , particularly FTC .
+Thus , the present study uncovers an interesting phenomenon that rs17849071G/T is protective against FTC possibly through preventing PIK3CA amplifications .
+The minor allele at the peak 1 SNP rs2736108 associates with longer telomeres ( P = 5.8 x 10 ( -7 ) ) , lower risks for estrogen receptor ( ER ) - negative ( P = 1.0 x 10 ( -8 ) ) and BRCA1 mutation carrier ( P = 1.1 x 10 ( -5 ) ) breast cancers and altered promoter assay signal .
+The minor allele at the peak 2 SNP rs7705526 associates with longer telomeres ( P = 2.3 x 10 ( -14 ) ) , higher risk of low-malignant-potential ovarian cancer ( P = 1.3 x 10 ( -15 ) ) and greater promoter activity .
+The minor alleles at the peak 3 SNPs rs10069690 and rs2242652 increase ER-negative ( P = 1.2 x 10 ( -12 ) ) and BRCA1 mutation carrier ( P = 1.6 x 10 ( -14 ) ) breast and invasive ovarian ( P = 1.3 x 10 ( -11 ) ) cancer risks but not via altered telomere length .
+The cancer risk alleles of rs2242652 and rs10069690 , respectively , increase silencing and generate a truncated TERT splice variant .
+CONCLUSION : The A allele of rs1800783 is a significant risk factor for nephropathy in individuals with type 1 diabetes , and further comprehensive studies are warranted to confirm the definitive functional variant in the NOS3 gene .
+Sequence analysis of a 5 ' RACE product of DMBT1 demonstrated that rs2981745 , a putative breast cancer risk locus , appears to be one of the causal variants leading to DASE in DMBT1 .
+Moreover , the G allele of rs2293855 was associated with glucose intolerance ( fasting glucose , P = 0.012 ; glucose AUC , P = 0.006 ; 2-h glucose , P = 0.024 ) ; it is also associated with decreased indices of insulin sensitivity ( fasting insulin , P = 0.043 ; insulin sensitivity index composite , P = 0.009 ; homeostasis model assessment of insulin resistance , HOMA-IR , P = 0.008 ) and decreased indices of insulin secretion ( HOMA of beta cell function , HOMA-B , P = 0.028 ; insulinogenic index , P = 0.003 ) .
+CONCLUSIONS : Polymorphism of rs2293855 in MTMR9 is associated with measures of glucose tolerance , indices of insulin secretion and indices of insulin sensitivity .
+METHODS : Association of a genetic variant in the TH promoter region , C-824T ( rs10770141 ) , with intellectual ability in 132 patients with schizophrenia and 282 healthy subjects was examined .
+Two EV genes ( EVER1 and EVER2 ) have been identified , and we tested the hypothesis that variation in the EVER2 gene ( rs7208422 ) is related to seropositivity to HPV ( of the genus beta types ) and risk of squamous cell carcinoma in a population-based case-control study of SCC ( n = 239 cases and 432 controls ) .
+We also identified two genome-wide significant associations : rs13408661 near IL1RL1/IL18R1 ( P ( Stage1 + Stage2 ) = 1.1 x10 ( -9 ) ) , which is correlated with a variant recently shown to be associated with asthma ( rs3771180 ) , and rs9268516 in the HLA region ( P ( Stage1 + Stage2 ) = 1.1 x10 ( -8 ) ) , which appears to be independent of previously reported associations in this locus .
+We observed a slight reduction in colon cancer risk with the AA LEP rs2167270 genotype ( OR 0.79 95 % CI 0.64 , 0.98 ) and although not reaching statistical significance , with the combined GG LEP rs2167270 and GG LEPR rs6588147 ( OR 0.70 , 95 % CI 0.49 , 1.02 ) genotypes .
+Likewise , variants of IGF1 and IRS2 interacted with the LEP rs2167270 polymorphism .
+We recently identified a missense single nucleotide polymorphism ( SNP ) in DDX5 ( rs1140409 , p.S480A ) that enhances the risk of developing cirrhosis .
+CONCLUSION : This is the first study identifying GLI1 rs2228226 G > C as an independent prognostic marker in patients with stage II and III colon carcinoma .
+Finally , we discovered SNP rs10498345 , a genetic marker for coronary spasm in Japanese women ( Odds ratio = 0.43 , P = 9.48 x10 ( -7 ) ) .
+Haplotype analysis showed that haplotype H2 , the only haplotype containing the protective A allele at SNP rs10498345 , was most strongly associated with coronary spasm ( permutation P value < 1x10 ( -4 ) ) .
+CONCLUSIONS : SNP rs10498345 was strongly associated with coronary spasm in Japanese women utilizing genome-wide SNP analysis .
+CONCLUSION : Results from this study suggest that rs4680 in the COMT gene and rs4646903 in the CYP1A1 gene may be genetic markers for breast cancer prognosis in Chinese women .
+Interestingly , a recent work showed that the T allele of the rs7574865 STAT4 SNP was associated with inflammatory bowel disease ( IBD ) in a Spanish population .
+However , the meta-analysis showed that the STAT4 rs7574865 T allele was significantly associated with susceptibility to UC ( p = 0.012 pooled ; OR = 1.20 , 95 % CI = 1.04-1 .39 ) but not CD ( p = 0.71 pooled ; OR = 0.93 , 95 % CI = 0.65-1 .34 ) .
+Our data suggest that the rs7574865 STAT4 SNP is a genetic susceptibility variant for UC but not CD in the Spanish population .
+METHODS : The presence or absence of RPD was studied among 408 patients with exudative AMD in at least one eye , and the clinical characteristics of those with RPD were investigated as well as genetic polymorphisms of ARMS2 A69S ( rs10490924 ) and CFH I62V ( rs800292 ) .
+A MYCL1 single nucleotide polymorphism , rs3134613 , has been reported to play an important role in many cancers .
+The results demonstrate that rs3134613 is associated with susceptibility to diffuse-type gastric cancer and with differentiation of gastric cancer .
+rs3134613 may be used as a potential marker to identify individuals who are at high risk of diffuse-type gastric cancer .
+METHODS : hMSC were isolated from iliac crest aspirates from healthy donors and kept in cell cultures .
+We have identified a novel fibroblast growth factor receptor 3 ( FGFR3 ) missense mutation in four unrelated individuals with skeletal dysplasia that approaches the severity observed in thanatophoric dysplasia type I ( TD1 ) .
+However , three of the four individuals developed extensive areas of acanthosis nigricans beginning in early childhood , suffer from severe neurological impairments , and have survived past infancy without prolonged life-support measures .
+The FGFR3 mutation ( A1949T : Lys650Met ) occurs at the nucleotide adjacent to the TD type II ( TD2 ) mutation ( A1948G : Lys650Glu ) and results in a different amino acid substitution at a highly conserved codon in the kinase domain activation loop .
+Transient transfection studies with FGFR3 mutant constructs show that the Lys650Met mutation causes a dramatic increase in constitutive receptor kinase activity , approximately three times greater than that observed with the Lys650Glu mutation .
+We refer to the phenotype caused by the Lys650Met mutation as `` severe achondroplasia with developmental delay and acanthosis nigricans '' ( SADDAN ) because it differs significantly from the phenotypes of other known FGFR3 mutations .
+Transgenic mice overexpressing approximately eightfold the mouse ( Mo ) prion protein ( PrP ) gene carrying the P102L mutation of GSS developed neurodegeneration between 150 and 300 days of age , while controls expressing the wild-type MoPrP-A transgene at the same level remained healthy .
+Mice overexpressing the wild-type MoPrP-A transgene were highly susceptible to inoculated mouse prions , exhibiting abbreviated scrapie incubation times of 45 days .
+After crossing the mutant transgene onto a null ( Prnp 0/0 ) background , the resulting Tg ( MoPrP-P101L ) Prnp 0/0 mice displayed a highly synchronous onset of illness at 145 days of age , which was shortened to 85 days upon breeding to homozygosity for the transgene array .
+Besides occasional PrP plaques and modest spongiform degeneration , Tg ( MoPrP-P101L ) mice suffered from a myopathy and a peripheral neuropathy .
+Disruption of the wild-type MoPrP gene increased the number of PrP plaques and the severity of spongiform degeneration .
+Brain extracts prepared from spontaneously ill transgenic mice transmitted disease to Tg196/Prnp 0/0 mice , expressing low levels of the mutant transgene .
+In this research rs1421085 and rs9939609 polymorphisms of FTO gene were genotyped in 190 obese patients with a BMI > / = 30 kg/m ( 2 ) ( Body Mass Index ) and 97 healthy controls with a BMI of 18.5-24 .9 .
+In addition to the top significant SNPs rs2917454 and rs6907229 , imputation analysis uncovered additional genetic variants in KCNMA1 and in KCNQ5 that were associated with CRS .
+Of the 16 SNPs assessed , IL28B-rs8099917 * TG ( rs8099917 ; P = 0.01 , OR = 2.2 ) , TNFA-1031 * CC ( rs1799964 ; p = 0.02 , OR = 0.48 ) and IL10-1082 * AA ( rs1800896 ; P = 0.001 , OR = 0.33 ) were significantly associated with NTM disease .
+It was recently reported that GCKR rs780094 was associated with fasting plasma glucose ( FPG ) and triglyceride ( TG ) levels in various ethnic populations ( A allele for low FPG and high TG ) .
+An association between GCKR rs780094 and type 2 diabetes mellitus ( T2DM ) ( A allele for low risk ) has also been reported .
+We examined the association between GCKR rs780094 and T2DM in Japanese subjects by analyzing 488 cases and 398 controls .
+In the case-control study , the A allele of GCKR rs780094 was associated with a reduced risk of T2DM ( odds ratio = 0.711 ( 95 % confidence interval = 0.589-0 .859 ) , P = 4.2 x 10 ( -4 ) ) .
+A meta-analysis confirmed the association of GCKR rs780094 with T2DM susceptibility .
+We replicated GCKR rs780094 as a marker of T2DM susceptibility in Japanese subjects .
+This suggests that GCKR rs780094 is a common variant for T2DM susceptibility in various ethnic groups .
+The latter mutation was associated with an Arg 47 -- > His mutation in two compound heterozygous brothers .
+These three mutations led to the expression in the circulation of small amounts of inactive molecules with a high molecular mass in immunoblot analysis .
+In reducing conditions , these variant molecules had a normal molecular mass , which led us to postulate that these mutations prevent the formation of one intramolecular disulfide bond and allow the formation of intermolecular disulfide bonds .
+Plasma from a heterozygous patients bearing the Cys 128 -- > Tyr mutation and from a compound heterozygote bearing the Arg 47 -- > His mutation and the 9 bp deletion in exon 6 were passed through a heparin-sepharose column .
+In both cases a population of high-molecular-weight AT molecules with no binding affinity and no AT activity was separated from a population of normal molecules in the first patient , together with a population of molecules with a reduced binding affinity for heparin due to the substitution of Arg 47 , in the compound heterozygote .
+The common feature of these three mutations is that they lead to partial misfolding and to the formation of intermolecular disulfide bonds with other plasma components , inducing the pleiotropic phenotypes observed .
+Genes encoding Ca ( 2 + ) regulatory proteins responsible for Ca ( 2 + ) homeostasis have been suggested as possible candidates for FHC .
+Mutations in sarcomere genes account for approximately 50 % of all FHC cases indicating other genes , including those involved in Ca ( 2 + ) handling , may account for the remainder .
+The aim of this study was to identify causative mutations in genes involved in Ca ( 2 + ) regulation in patients with familial hypertrophic cardiomyopathy ( FHC ) .
+An Australian cohort of 252 unrelated familial hypertrophic cardiomyopathy patients were screened for mutations in the Ca ( 2 + ) regulatory genes , sorcin ( SRI ) , calstabin ( FKBP1B ) , calsequestrin ( CASQ2 ) , phospholamban ( PLN ) , sarcolipin ( SLN ) , calreticulin ( CALR3 ) and calmodulin ( CALM ) .
+A total of 17 exonic DNA variants were identified in the 7 Ca ( 2 + ) regulatory genes studied , of which 4 were considered of pathogenic significance .
+Two novel mutations in the CALR3 gene were identified ( Lys82Arg , Arg73Gln ) and one truncation mutation in the PLN gene ( Leu39Ter ) .
+A variant was also identified in the CASQ2 gene ( Asp63Glu ) .
+These four variants were all novel , resulted in changes in conserved amino acids and were not identified in a normal population .
+In conclusion , mutations in Ca ( 2 + ) handling genes are an infrequent but important cause of FHC .
+DNA variants in Ca ( 2 + ) genes may also be involved as modifying factors in phenotype development .
+Further evaluation of the role of defects in Ca ( 2 + ) regulation will shed light on the molecular pathogenesis of FHC .
+This study aimed at challenging pulmonary large cell carcinoma ( LLC ) as tumor entity and defining different subgroups according to immunohistochemical and molecular features .
+Expression of markers specific for glandular ( TTF-1 , napsin A , cytokeratin 7 ) , squamous cell ( p40 , p63 , cytokeratins 5/6 , desmocollin-3 ) , and neuroendocrine ( chromogranin , synaptophysin , CD56 ) differentiation was studied in 121 LCC across their entire histological spectrum also using direct sequencing for epidermal growth factor receptor ( EGFR ) and v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog ( KRAS ) mutations and FISH analysis for ALK gene translocation .
+Survival was not investigated .
+All 47 large cell neuroendocrine-carcinomas demonstrated a true neuroendocrine cell lineage , whereas all 24 basaloid and both 2 lymphoepithelioma-like carcinomas showed squamous cell markers .
+Eighteen out of 22 clear cell carcinomas had glandular differentiation , with KRAS mutations being present in 39 % of cases , whereas squamous cell differentiation was present in four cases .
+Eighteen out of 20 large cell carcinomas , not otherwise specified , had glandular differentiation upon immunohistochemistry , with an exon 21 L858R EGFR mutation in one ( 5 % ) tumor , an exon 2 KRAS mutation in eight ( 40 % ) tumors , and an ALK translocation in one ( 5 % ) tumor , whereas two tumors positive for CK7 and CK5/6 and negative for all other markers were considered adenocarcinoma .
+All six LCC of rhabdoid type expressed TTF-1 and/or CK7 , three of which also harbored KRAS mutations .
+When positive and negative immunohistochemical staining for these markers was combined , three subsets of LCC emerged exhibiting glandular , squamous , and neuroendocrine differentiation .
+Molecular alterations were restricted to tumors classified as adenocarcinoma .
+Stratifying LCC into specific categories using immunohistochemistry and molecular analysis may significantly impact on the choice of therapy .
+We previously described an androgen receptor ( AR ) point mutation located in the DNA-binding domain ( DBD ) , adjacent to another AR substitution .
+Both were observed in two unrelated families with male breast cancer ( MBC ) and partial androgen insensitivity syndrome .
+This work was designed to determine the potential role of these two residues by in vitro study of the consequences of these two substitutions on biological functions and their structural impact at the atomic level .
+Mutant ARs revealed normal androgen-binding affinities and weaker DNA binding to an isolated androgen-responsive element .
+In cotransfection assays the mutant ARs displayed a reduced transactivation efficiency at 0.3 x 10 ( -10 ) M. Neither binding to an estrogen-responsive element nor transactivation efficiency of an ERE reporter gene was observed .
+Molecular modeling revealed that Arg607 and Arg608 were partially surface-exposed and located in adjacent areas in the AR-DBD complex with DNA .
+This is in favor of a protein-protein interaction .
+It is conceivable that such an interaction could be affected by mutation of one of these two arginines .
+BACKGROUND : Long QT syndrome ( LQTS ) is a cardiac ion channelopathy which presents clinically with palpitations , syncope or sudden death .
+More than 700 LQTS-causing mutations have been identified in 13 genes , all of which encode proteins involved in the execution of the cardiac action potential .
+The most frequently affected genes , covering > 90 % of cases , are KCNQ1 , KCNH2 and SCN5A .
+METHODS : We describe 64 different mutations in 70 unrelated Danish families using a routine five-gene screen , comprising KCNQ1 , KCNH2 and SCN5A as well as KCNE1 and KCNE2 .
+RESULTS : Twenty-two mutations were found in KCNQ1 , 28 in KCNH2 , 9 in SCN5A , 3 in KCNE1 and 2 in KCNE2 .
+Twenty-six of these have only been described in the Danish population and 18 are novel .
+One double heterozygote ( 1.4 % of families ) was found .
+A founder mutation , p.F29L in KCNH2 , was identified in 5 `` unrelated '' families .
+Disease association , in 31.2 % of cases , was based on the type of mutation identified ( nonsense , insertion/deletion , frameshift or splice-site ) .
+Functional data was available for 22.7 % of the missense mutations .
+None of the mutations were found in 364 Danish alleles and only three , all functionally characterised , were recorded in the Exome Variation Server , albeit at a frequency of < 1:1000 .
+CONCLUSION : The genetic etiology of LQTS in Denmark is similar to that found in other populations .
+A large founder family with p.F29L in KCNH2 was identified .
+In 48.4 % of the mutations disease causation was based on mutation type or functional analysis .
+We conducted a genome-wide association study ( GWAS ) and a genome-wide gene-environment interaction analysis of esophageal squamous-cell carcinoma ( ESCC ) in 2,031 affected individuals ( cases ) and 2,044 controls with independent validation in 8,092 cases and 8,620 controls .
+We identified nine new ESCC susceptibility loci , of which seven , at chromosomes 4q23 , 16q12 .1 , 17q21 , 22q12 , 3q27 , 17p13 and 18p11 , had a significant marginal effect ( P = 1.78 x10 ( -39 ) to P = 2.49 x10 ( -11 ) ) and two of which , at 2q22 and 13q33 , had a significant association only in the gene-alcohol drinking interaction ( gene-environment interaction P ( PGxE ) = 4.39 x10 ( -11 ) and PGxE = 4.80 x10 ( -8 ) , respectively ) .
+Variants at the 4q23 locus , which includes the ADH cluster , each had a significant interaction with alcohol drinking in their association with ESCC risk ( PGxE = 2.54 x10 ( -7 ) to PGxE = 3.23 x10 ( -2 ) ) .
+We confirmed the known association of the ALDH2 locus on 12q24 to ESCC , and a joint analysis showed that drinkers with both of the ADH1B and ALDH2 risk alleles had a fourfold increased risk for ESCC compared to drinkers without these risk alleles .
+Our results underscore the direct genetic contribution to ESCC risk , as well as the genetic contribution to ESCC through interaction with alcohol consumption .
+AIM : The development of Type 2 diabetes mellitus ( T2DM ) has been recognized to be associated with a combination of pancreatic beta-cell dysfunction and insulin resistance .
+Nuclear factor-kappaB ( NF-kappaB ) has been recognized as one central mediator in the reaction of inflammation and proapoptotic event in beta-cells .
+A functional polymorphism at the codon 55 ( methionine to valine ; A163G ) of the small ubiquitin - like modifier-4 ( SUMO4 ) gene may result in higher NF-kappaB activity .
+This study investigates whether this SUMO4 Met55Val polymorphism also contributes to the development of T2DM .
+MATERIALS AND METHODS : The study was performed using genomic DNA samples from 574 Type 2 diabetic patients and 323 healthy controls .
+The SUMO4 Met55Val polymorphism was genotyped using allele-specific real-time PCR .
+RESULTS : The frequency of the G allele ( encoding Val55 ) was significantly higher in Type 2 diabetic patients and Type 2 diabetic patients with the GG genotype had higher hemoglobin A1c level .
+Multivariate logistic regression analysis revealed the genotype of GG and GA was an independent risk factor contributing to the development of T2DM .
+CONCLUSION : This study suggests that in Taiwan the SUMO4 Met 55Val polymorphism is associated with susceptibility to T2DM and Type 2 diabetic patients with GG genotype have worse glycemic control .
+Recent genome-wide association studies ( GWASs ) of schizophrenia ( SCZ ) identified several susceptibility genes and suggested shared genetic components between SCZ and bipolar disorder ( BD ) .
+We conducted a genetic association study of single nucleotide polymorphisms ( SNPs ) selected according to previous SCZ GWAS targeting psychotic disorders ( SCZ and BD ) in the Japanese population .
+Fifty-one SNPs were analyzed in a two-stage design using first-set screening samples ( all SNPs : 1,032 SCZ , 1,012 BD , and 993 controls ) and second-set replication samples ( `` significant '' SNPs in the first-set screening analysis : 1,808 SCZ , 821 BD , and 2,321 controls ) .
+We assessed allelic associations between the selected SNPs and the three phenotypes ( SCZ , BD , and `` psychosis '' [ SCZ + BD ] ) .
+SNP in ZSCAN31 ( rs7759855 ) had the strongest association with the phenotypes ( best P = 6.8 x 10 ( -5 ) for psychosis : present plus PGC results ) .
+In the analysis of common SNPs , we found that the most significant SNP in schizophrenia was rs4778334 ( OR = .72 , 95 % CI = 0.60-0 .87 , allelic P = .0056 after permutation , genotypic P = .015 after permutation ) .
+We also found SNP rs1009153 in CYFIP1 was associated with schizophrenia ( OR = 0.82 , 95 % CI = 0.73-0 .93 , allelic P = .044 after permutation ) .
+Polymorphic variants of XPD , at Asp312Asn ( rs1799793 ) , Lys751Gln ( rs13181 ) , and promoter C-114G ( rs3810366 ) , were chosen to be studied of their association with breast cancer susceptibility in a central Taiwanese population .
+In this hospital-based case-control study , the associations of XPD Asp312Asn , Lys751Gln and promoter C-114G polymorphisms with breast cancer risk were investigated .
+In this hospital-based case-control study , the associations of XPD Asp312Asn , Lys751Gln and promoter C-114G polymorphisms with breast cancer risk were investigated .
+We found a significant difference in the frequency of the XPD Asp312Asn genotype , but not the XPD Lys751Gln or promoter C-114G genotypes , between the breast cancer and control groups .
+Those who had G/A or A/A at XPD Asp312Asn showed a 1.78-fold ( 95 % confidence interval = 1.53-2 .08 ) increased risk of breast cancer compared to those with G/G .
+As for XPD Lys751Gln or promoter C-114G , there was no difference in distribution between the breast cancer and control groups .
+Our findings suggest that the heterozygous and homozygous A allele of the XPD Asp312Asn may be associated with the development of breast cancer and may be a useful marker for primary prevention and anticancer intervention .
+Pseudoxanthoma elasticum ( PXE ) is a relatively rare heritable disorder affecting the skin , eyes and cardiovascular system , with considerable morbidity and mortality .
+The disease affects the elastic fibers of affected organs , which become progressively calcified .
+Thus , PXE has been considered as a prototypic heritable connective tissue disorder affecting the elastic fiber system .
+Recently , PXE has been linked to mutations in the MRP6/ABCC6 gene , a member of the ABC transporter family , expressed primarily in the liver and the kidneys .
+This information , together with clinical observations suggesting environmental , hormonal and/or dietary modulation of the disease , raises the intriguing possibility that PXE is a primary metabolic disorder at the environment-genome interface .
+Primary aldosteronism is the most common cause of secondary hypertension , most frequently due to an aldosterone-producing adenoma or idiopathic hyperaldosteronism .
+Somatic mutations of the potassium channel KCNJ5 in the region of the selectivity filter have been found in a significant number of aldosterone-producing adenomas .
+There are also familial forms of primary aldosteronism , one of which , familial hyperaldosteronism type 3 which to date has been found in one family who presented with a severe abnormality in aldosterone and 18-oxocortisol production and hypertrophy and hyperplasia of the transitional zone of the adrenal cortex .
+In familial hyperaldosteronism type 3 , there is a genomic mutation causing a T158A change of amino acids within the selectivity filter region of the KCNJ5 gene .
+We are reporting our studies demonstrating that lentiviral-mediated expression of a gene carrying the T158A mutation of the KCNJ5 in the HAC15 adrenal cortical carcinoma cell line causes a 5.3-fold increase in aldosterone secretion in unstimulated HAC15-KCNJ5 cells and that forskolin-stimulated aldosterone secretion was greater than that of angiotensin II .
+Expression of the mutated KCNJ5 gene decreases plasma membrane polarization , allowing sodium and calcium influx into the cells .
+The calcium channel antagonist nifedipine and the calmodulin inhibitor W-7 variably inhibited the effect .
+Overexpression of the mutated KCNJ5 channel resulted in a modest decrease in HAC15 cell proliferation .
+These studies demonstrate that the T158A mutation of the KCNJ5 gene produces a marked stimulation in aldosterone biosynthesis that is dependent on membrane depolarization and sodium and calcium influx into the HAC15 adrenal cortical carcinoma cells .
+AIMS : The purpose of this study was to compare the DNA-methylation signature in classic chronic Philadelphia negative myeloproliferative neoplasms ( MPN ) , polycythaemia vera ( PV ) and essential thrombocythaemia ( ET ) , in order to obtain a global insight into DNA-methylation changes associated with these malignancies .
+METHODS : Thirty-five MPN samples from 11 ET JAK2 V617F , 12 ET JAK2 wild type ( WT ) and 12 PV JAK2 V617F patients as well as 12 from healthy donors were analysed .
+DNA samples extracted from whole peripheral blood were hybridised to the ` HumanMethylation27 DNA Analysis BeadChip .
+' RESULTS : All groups showed a very homogeneous methylation pattern .
+Only the ZNF577 gene showed a differential methylation profile between PV JAK2 V617F positive and controls .
+This aberrant methylation was correlated with a differential gene expression of ZNF577 .
+No aberrant hypermethylation was found in the SOCS-1 and SOCS-3 genes .
+CONCLUSIONS : According to our results , an aberrant methylation pattern does not seem to play a crucial role in MPN pathogenesis ; nor does it justify phenotypical differences between PV and ET .
+BACKGROUND : Clouston syndrome is a rare autosomal dominant condition characterized by hypotrichosis , nail dystrophy , and occasionally palmoplantar keratoderma .
+The disease is caused by mutations in GJB6 gene , which encodes a gap junction protein connexin 30 ( Cx30 ) .
+OBJECTIVE : To disclose the molecular basis of Clouston syndrome in a Lebanese-German family , and also to determine precise expression of Cx30 in normal skin of humans and mice , as well as transcriptional regulation for the GJB6 expression .
+METHODS : We searched for mutations in the GJB6 gene using DNA of the family members with Clouston syndrome .
+We performed immunostaining to localize the Cx30 expression in normal human skin and mouse embryos .
+In addition , we did a series of in vitro studies to investigate if the GJB6 could be a direct transcriptional target gene of p63 .
+RESULTS : We identified a recurrent heterozygous mutation c. 31G > C ( p.Gly11Arg ) in the GJB6 gene in the Lebanese-German family with Clouston syndrome .
+Immunostaining in normal human skin sections demonstrated predominant expression of Cx30 in hair follicles , nails , and palmoplantar epidermis , which partially overlapped with p63 expression .
+We also showed co-expression of Cx30 and p63 in developing mouse hair follicles and nail units .
+In cultured cells , the GJB6 expression was significantly upregulated by DeltaNp63alpha isoform .
+Further in vitro analyses suggested that DeltaNp63alpha was potentially involved in the GJB6 expression via binding to the sequences in intron 1 of the GJB6 gene .
+CONCLUSION : Our data further underscore the crucial roles of Cx30 in morphogenesis and development of skin and its appendages .
+OBJECTIVE : Resistance to androgens has been suggested as a possible cause of male infertility .
+This hypothesis is based mainly on binding studies in genital skin fibroblasts but the molecular evidence is sparse .
+DESIGN : Molecular studies of the androgen receptor gene were performed in 10 azoo - or oligozoospermic men , presenting with clinical signs of low androgen activity-poor virilization and high serum LH despite elevated testosterone levels , but without genital malformations .
+METHODS : A case-control study ( 230 GB carcinogenesis patients and 230 controls ) was undertaken to evaluate whether genetic variations in 3 DNA repair genes ERCC2 ( Asp312Asn [ rs1799793 ] and Lys751Gln [ rs13181 ] ) , MSH2 ( -118 T > C [ rs2303425 ] and IVS1 + 9G > C [ rs2303426 ] ) , and OGG1 ( Ser326Cys [ rs1052133 ] and 748-15C > G [ rs2072668 ] ) are associated with GB carcinogenesis risk in a North Indian population .
+Previously , two independent studies identified an association between the major allele of the ITGAV single-nucleotide polymorphism ( SNP ) rs3738919 and RA .
+Inclusion of these data in a meta-analysis ( random effects ) of four independent cohorts ( 3,527 cases and 4,126 controls ) weakens support for the hypothesis that rs3738919 plays a role in the development of RA ( OR ( combined ) = 0.92 , 95 % confidence interval 0.80 to 1.07 ; P = 0.29 ) .
+We identified a SNP ( rs10118570 GG in mitogen-activated protein kinase associated protein 1 , MAPKAP1 ) contributes to anti-infection ( adjusted OR = 0.35 ) and anti-fibrogenesis ( adjusted RR = 0.44 ) in the discovery study .
+And rs10118570 may be a potential biomarker and target for the treatment of this life-threatening ancient disease .
+Our data also confirmed the association of TM7SF4 ( rs2458413 , OR = 1.40 , P = 7.38 x 10 ( -17 ) ) with PDB .
+To examine the association of genetic polymorphisms in this region with chronic kidney disease ( CKD ; estimated glomerular filtration rate < 60 ml/min/1 .73 m ( 2 ) ) in individuals of European ancestry , we examined rs4821480 , an MYH9 single-nucleotide polymorphism ( SNP ) recently identified as associated with kidney disease in African-Americans , in 13 133 participants from the Framingham Heart Study ( FHS ) and Atherosclerosis Risk in Communities ( ARIC ) Study .
+Because of prior data linking rs4821480 and kidney disease , we used a P-value of < 0.05 to test the association with CKD .
+In the meta-analysis , rs4821480 ( minor allele frequency 4.45 and 3.96 % in FHS and ARIC , respectively ) was associated with higher CKD prevalence in participants free of diabetes ( odds ratio 1.44 ; 95 % confidence interval 1.15-1 .80 ; P = 0.001 ) .
+These data suggest that the MYH9 polymorphism rs4821480 is associated with an increased risk of non-diabetic CKD in individuals of European ancestry .
+RESULTS : Compared with the common TT genotype , the ERCC6 rs1917799 GG genotype was associated with increased GC risk ( adjusted OR = 1.46 , 95 % CI : 1.03-2 .08 , P = 0.035 ) .
+CONCLUSIONS : ERCC6 rs1917799 GG genotype might be associated with increased GC risk in Chinese , especially in males .
+We also analysed the specific combinations by pair of individual ATG16L1 , IL23R rs1004819 , rs2201841 , , and CARD15 genotypes for disease risk influence .
+Of the T2D-related SNPs , the G-alleles of HHEX rs7923837 ( hazard ratio [ HR ] ( 95 % C.I. ) = 1.34 ( 1.08-1 .65 ) ; P = 6.7 x10 ( -3 ) under dominant model ) and TCF7L2 rs290481 ( HR ( 95 % C.I. ) = 1.16 ( 1.01-1 .33 ) ; P = 0.040 under additive model ) were positively associated with cancer risk , while the G-allele of CDKAL1 rs7756992 was inversely associated ( HR ( 95 % C.I. ) = 0.80 ( 0.65-1 .00 ) ; P = 0.048 under recessive model ) .
+CONCLUSIONS : T2D-related variants HHEX rs7923837 , TCF7L2 rs290481 and CDKAL1 rs7756992 increased cancer risk in patients with diabetes .
+The minor allele of WNT5B rs2010851 T > G was significantly associated with a shorter TTR ( 10.7 vs 4.9 years ; hazard ratio : 2.48 ; 95 % CI , 0.96-6 .38 ; P = 0.04 ) in high-risk stage II CC patients .
+This study shows that the WNT5B germline variant rs2010851 was significantly identified as a stage-dependent prognostic marker for CC patients after 5-fluorouracil-based adjuvant therapy .
+BACKGROUND AND AIMS : Epidemiological studies have investigated the association between STXBP4/COX11 rs6504950 ( G > A ) polymorphism and breast cancer susceptibility .
+Crude odds ratios ( ORs ) with 95 % confidence intervals ( CIs ) were extracted and pooled to assess the strength of the association between STXBP4/COX11 rs6504950 ( G > A ) polymorphism with breast cancer risk .
+We observed that STXBP4/COX11 rs6504950 polymorphism was significantly correlated with breast cancer risk when all studies were pooled into the meta-analysis ( the allele contrast model : OR = 0.93 , 95 % CI = 0.87-0 .99 ; the heterozygote codominant model : OR = 0.87 , 95 % CI = 0.83-0 .90 ; the dominant model OR = 0.92 , 95 % CI = 0.88-0 .96 ) .
+CONCLUSION : This meta-analysis indicated that the rs6504950 AA/AG genotypes are associated with a significantly decreased risk of breast carcinogenesis .
+CONCLUSIONS : Our analysis suggests that the IL18 rs2043055 polymorphism - or a SNP in tight linkage disequilibrium with it - may contribute to modulating the Chagas cardiomyopathy outcome .
+OBJECTIVES : PNPLA3 I148M polymorphism ( rs738409 ) has been strongly associated with liver fat content and plasma alanine aminotransferase ( ALT ) levels in obese adults and children , but little is known about these relationships in normal weight individuals .
+CONCLUSIONS : The IL-6 -6331 ( T/C , rs10499563 ) polymorphism is associated with genetic susceptibility of GC and may have the potential to predict GC risk .
+Variant alleles of ABCB1 ( -41 A/G ) , HMGCR SNP29 G/T , rs5908A/G , rs12916C/T , and CYP7A1-204A / C polymorphisms were significantly associated with attenuated LDL-C reduction and variant alleles of CETP TaqI , -629 C/A , and APOAI PstI polymorphisms were associated with higher increase in high-density lipoprotein-cholesterol .
+The first SNP , rs6812193 , located 64 kb upstream of SCARB2 , was identified in a Parkinson disease Genome Wide Association study of Americans with European ancestry ( p = 7.6 x 10 ( -10 ) , OR = 0.84 ) , but was not replicated in a study in the Han Chinese .
+The second SNP , rs6825004 , located within intron 2 of SCARB2 was reported in an association study of Parkinson disease in Greece ( p = 0.02 , OR = 0.68 ) .
+We found that the MMP9 rs3787268 GA+AA genotypes were significantly associated with poor DFS and DDFS of patients with breast cancer ( log-rank p-values 0.045 and 0.028 , respectively ) , especially in some subgroups of patients .
+Further , among estrogen receptor ( ER ) + / epidermal growth receptor 2 ( HER-2 ) - patients , the rs3787268 GA+AA genotypes and rs17577 GG genotype showed a locus-dosage effect between combined the genotypes and decreased survival ( adjusted HR 2.59 , 95 % confidence interval [ CI ] 1.29-5 .19 and adjusted HR 3.25 , 95 % CI 1.39-7 .58 , respectively , for DFS and DDFS ) .
+We found that the T allele of rs2294008 , an intronic variant of the PSCA gene at 8q24 that was previously associated with an increased risk of gastric cancer , was inversely associated with a decreased risk of ESCC ( odds ratio = 0.90 ; 95 % confidence interval , 0.81-0 .99 ; P = 0.034 ) .
+Of interest , the association of rs2294008 with ESCC was consistent with that observed in esophageal adenocarcinoma and ESCC in Caucasian populations .
+Results showed that six SNPs ( MTHFR rs1801133 , MTRR rs2287780 , MTRR rs10380 , FTHFD rs1127717 , GART rs8971 , and SHMT rs1979277 ) were significantly associated with HCC risk in Chinese population , with P values range from 2.26 x 10 ( -4 ) to 0.035 ) .
+NPAS3 belongs to the basic helix-loop-helix Per-Arnt-Sim ( bHLH-PAS ) transcription factor family , involved in diverse processes including the regulation of cell differentiation and circadian rhythms , and the development and function of the nervous system .
+We found that a SNP ( rs10521496 ) covered by DIAPH2 , known to cause premature ovarian failure ( POF ) in females , is associated with age-related macular degeneration .
+METHODS : In the study cohort , we genotyped five SNPs ( rs11889031 , rs10932029 , rs4675374 , rs10183087 and rs10932037 ) in ICOS gene among 609 breast cancer patients and 665 age-matched healthy controls .
+RESULTS : In rs10932029 , compared with TT genotype and T allele , the CT genotype and C allele showed a significantly increased risk of breast cancer ( P = 0.030 , OR = 1.467 , 95 % CI 1.037-2 .077 ; P = 0.017 , OR = 1.481 , 95 % CI 1.070-2 .049 , respectively ) , and the associations were also significant in the validation cohort ( P = 0.002 , OR = 1.693 , 95 % CI 1.211-2 .357 ; P = 0.003 , OR = 1.607 , 95 % CI 1.171-2 .204 , respectively ) .
+In the analysis of clinicopathologic features , rs11889031 CT genotype and T allele were associated with progesterone receptor ( PR ) status and lymph node metastasis , which were further supported by our validation cohort .
+Single nucleotide polymorphisms in human pro- and anti-inflammatory genes , including IL1RN VNTR ( rs315952 ) , IL1A 4845G > T ( rs17561 ) , L1B-511C > T ( rs16944 ) , IL6-174G > C ( rs1800795 ) , IL10-1082 A > G ( rs 1800896 ) and TNFalpha-308G > A ( rs1800629 ) and their impact on multiple sclerosis risk and disease progression in a Polish population were investigated .
+A coding SNP ( rs6265 , Val66Met ) of the brain-derived neurotrophic factor gene ( BDNF ) has recently been associated with ADHD .
+We found significant association between TIMELESS variants and depression with fatigue ( D+FAT + ) ( rs7486220 : pointwise P = 0.000099 , OR = 1.66 ; corrected empirical P for the model of D+FAT + = 0.0056 ; haplotype ` C-A-A-C ' of rs2291739-rs2291738-rs7486220-rs1082214 : P = 0.0000075 , OR = 1.72 ) in females , and association to depression with early morning awakening ( D+EMA + ) ( rs1082214 : pointwise P = 0.0009 , OR = 2.70 ; corrected empirical P = 0.0374 for the model D+EMA + ; haplotype ` G-T ' of rs7486220 and rs1082214 : P = 0.0001 , OR = 3.01 ) in males .
+CONCLUSION : This meta-analysis provided evidence that CD226 Gly307Ser ( rs763361 ) is significantly associated with the risk of multiple autoimmune diseases .
+The GG genotype of rs3746444 was found to be associated with a significantly increased risk of MI ( recessive model , adjusted OR = 1.710 , 95 % CI : 1.058-2 .763 , P = 0.029 ) .
+It has been suggested that two common SNPs rs2910164 in miR-146a and rs3746444 in miR-499 are associated with susceptibility to hepatocellular carcinoma ( HCC ) .
+METHODOLOGY/PRINCIPAL FINDINGS : We have conducted a search of case-control studies on the associations of SNPs rs2910164 and/or rs3746444 with susceptibility to HCC in PubMed , ScienceDirect , Cochrane Central Register of Controlled Trials , and Chinese National Knowledge Infrastructure databases for the period up to Sep 10th , 2012 .
+The G-allele of rs6295 is known to be associated with aspects of major depression and migraine .
+These data may point to a novel , i.e. , rs6295 allelic variant and c-Jun dependent transcriptional 5HT1AR ` receptoropathy ' .
+The A allele of ESR2 rs1256049 was associated with an increased risk of GAD [ OR : 2.06 , 95 % CI : 1.09-3 .87 ] , while both ESR1 polymorphisms were specifically associated with phobia .
+The C allele of ESR1 rs2234693 decreased the risk of phobia by 42 % [ 95 % CI : 0.41-0 .83 ] , and this remained significant even after Bonferroni correction .
+The G allele of ESR1 rs9340799 was associated with a 31 % decreased phobia risk [ 95 % CI : 0.49-0 .96 ] .
+BAT3 rs1052486 was associated with a significantly increased lung cancer risk ( OR = 1.06 , 95 % CI 1.01-1 .12 , P = 0.03 ) .
+Furthermore , BAT3 rs3117582 increased lung cancer risk ( OR = 1.31 , 95 % CI , 1.26-1 .35 , P < 0.00001 ) .
+Different effect models were used according to the difference in heterogeneity .
+Publication bias was tested by Begg 's funnel plot and Egger 's regression test .
