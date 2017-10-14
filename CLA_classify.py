@@ -1,4 +1,30 @@
-# -*- encoding: utf-8 -*-
+# ============================================================================================
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Classify <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# AUTHOR : Carlos Mendez
+# MODIFIED BY : Larisa Morales 
+# VERSION: 1.0
+# CREATED: 10/10/2017 7:32 pm
+# DESCRIPTION: This program classifies text files by using trained SVM model and vectorizer
+# USAGE : python 3.4 classify.py --inputPath /home/larisams/storage --inputFile  RsPhenSentences.txt \
+# --outputPath /home/larisams/storage --outputFile RsPhenSentences_class.txt --modelName SVM_AC_LR_23130 \
+# --modelPath /home/larisams/DataMin/Training/outputData --clasePos DISEASE --claseNeg OTHER 
+# REQUIREMENTS : Text file to classify, model and vectorizer 
+# CATEGORY : Standalone
+# INPUT FORMAT : The file mist consist of one sentence per line 
+# OUTPUT FORMAT : The ouput consists of classified sentences in the format sentence <tab> class
+# LANGUAGE : Python 3.4
+# PATH PROGRAM : /home/larisams/DataMin/Final
+# PARAMETERS
+#   1) --inputPath Path to read TXT files to classify.
+#   2) --inputFile File to read text to classify (one per line).
+#   3) --outputPath Path to place classified TXT files.
+#   4) --modelPath Parent path to read trained model and vectorizer.
+#   5) --modelName Name of model and vectorizer to load.
+#   6) --outputFile File to write the classified sentences 
+#   7) --clasePos Clase positiva para clasificación
+#   8) --claseNeg Clase negativa para clasificación
+# =============================================================================================
+
 
 import os
 from time import time
@@ -11,28 +37,6 @@ from sklearn.svm import SVC
 import scipy.stats
 from sklearn.feature_extraction import DictVectorizer
 from sklearn import model_selection
-
-__author__ = 'CMendezC'
-
-# Objetivo: classify text files by using trained SVM model and vectorizer.
-#   Model and vectorizer must exist
-
-# Parameters
-#   1) --inputPath Path to read TXT files to classify.
-#   2) --inputFile File to read text to classify (one per line).
-#   3) --outputPath Path to place classified TXT files.
-#   4) --modelPath Parent path to read trained model and vectorizer.
-#   5) --modelName Name of model and vectorizer to load.
-#   6) --outputFile File to write the classified sentences 
-#   7) --clasePos Clase positiva para clasificación
-#   8) --claseNeg Clase negativa para clasificación
-
-# Ouput:
-#   1) A file with classified sentences (one per line), with class.
-
-# Usage:
-
-# python 3.4 classify.py --inputPath /home/larisams/storage --inputFile  RsPhenSentences.txt --outputPath /home/larisams/storage --outputFile RsPhenSentences_class.txt --modelName SVM_AC_LR_23130 --modelPath /home/larisams/DataMin/Training/outputData --clasePos DISEASE --claseNeg OTHER 
 
 ###########################################################
 #                       MAIN PROGRAM                      #
