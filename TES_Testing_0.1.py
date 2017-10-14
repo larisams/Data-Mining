@@ -1,4 +1,29 @@
-# -*- encoding: utf-8 -*-
+# ============================================================================================
+# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Testing <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# AUTHOR : Larisa Morales 
+# VERSION: 1.0
+# CREATED: 8/10/2017 4:27 pm
+# DESCRIPTION: This program evaluates the model and vectorizer classifing the sentences and then 
+# comparing this classes with their true classes.
+# USAGE : python 3.4 classify.py --inputPath /home/larisams/storage --inputTestSentences  testing-sentences.txt 
+# --inputTestClasses test-classes.txt --outputPath /home/larisams/storage --outputFile test-report.txt 
+# --modelName SVM_AC_LR_23130 --modelPath /home/larisams/DataMin/Training/outputData 
+# REQUIREMENTS : Text with sentences previously classified by the user,file with true testing classes model and vectorizer 
+# CATEGORY : Standalone
+# INPUT FORMAT : The file mist consist of one sentence per line, the true classes must be in the same order 
+# as the sentences 
+# OUTPUT FORMAT : The ouput consists of a test report with the performance metrics and the confussion matrix
+# LANGUAGE : Python 3.4
+# PATH PROGRAM : /home/larisams/DataMin/
+# PARAMETERS
+#   1) --inputPath Path to read test sentences 
+#   2) --inputTestSentences File to read test sentences 
+#   3) --inputTestClasses File to read true classes 
+#   3) --outputPath Path to place classified TXT files.
+#   4) --modelPath Parent path to read trained model and vectorizer.
+#   5) --modelName Name of model and vectorizer to load.
+#   6) --outputFile Name of output file 
+# =============================================================================================
 
 import os
 from time import time
@@ -11,28 +36,6 @@ from sklearn.svm import SVC
 import scipy.stats
 from sklearn.feature_extraction import DictVectorizer
 from sklearn import model_selection
-
-__author__ = 'CMendezC'
-
-# Objetivo: classify text files by using trained SVM model and vectorizer.
-#   Model and vectorizer must exist
-
-# Parameters
-#   1) --inputPath Path to read test sentences 
-#   2) --inputTestSentences File to read test sentences 
-#   3) --inputTestClasses File to read true classes 
-#   3) --outputPath Path to place classified TXT files.
-#   4) --modelPath Parent path to read trained model and vectorizer.
-#   5) --modelName Name of model and vectorizer to load.
-
-
-#   11) --clasePos Clase positiva para clasificación
-#   12) --claseNeg Clase negativa para clasificación
-
-# Ouput:
-#   1) A file with classified sentences (one per line), with class.
-
-# Execution:
 
 ###########################################################
 #                       MAIN PROGRAM                      #
