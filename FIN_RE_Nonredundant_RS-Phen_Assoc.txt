@@ -1,0 +1,497 @@
+rs10008257	depressive disorder	18197271	
+rs10010131	Diabetes	18060660	
+rs10010131	Wolfram syndrome	18060660	
+rs10010131	diabetes	18060660	
+rs10010131	insulin resistance	18060660	
+rs10010131	optic atrophy	18060660	
+rs1004819	ulcerative colitis	17786191	
+rs1007888	diabetes	17712545	
+rs1008805	premenopausal breast cancer	17975727	
+rs1020759	colorectal cancer	12839942	
+rs1020759	inflammation	12839942	
+rs1020759	tumor necrosis	12839942	
+rs1034428	schizophrenia	18163426	
+rs10399805	schizophrenia	18281018	
+rs10407022	anovulation	18230658	
+rs10407022	polycystic ovary syndrome	18230658	
+rs1048661	Glaucoma	18223248	
+rs1048661	exfoliation syndrome	18223248	
+rs1048661	glaucoma	18223248	
+rs1048661	primary angle-closure <PHE>glaucoma	18223248	
+rs10490924	macular degeneration	17210853	
+rs10490924	macular degeneration	17884985	
+rs10490924	macular degeneration	18061132	
+rs10490924	macular degeneration	18164066	
+rs10498345	heart diseases	18075462	
+rs10499194	rheumatoid arthritis	17982456	
+rs10508266	adenocarcinoma	17223258	
+rs10516487	lupus erythematosus	18204447	
+rs10521496	macular degeneration	17549761	
+rs10521496	ovarian failure	17549761	
+rs1061170	macular degeneration	16865697	
+rs1061170	macular degeneration	18067970	
+rs1064891	Obesity	18180783	
+rs1064891	body mass	18180783	
+rs1064891	obesity	18180783	
+rs10735810	asthma	17703412	
+rs10735810	bronchiolitis	17703412	
+rs10735810	carcinogenesis	18086759	
+rs10735810	lower respiratory tract infection	17703412	
+rs10735810	ovarian carcinoma	18086759	
+rs10798269	lupus erythematosus	18204446	
+rs10935838	ischemic stroke	17707382	
+rs10935838	myocardial infarction	17707382	
+rs110683	Body mass	17903300	
+rs110683	Obesity	17903300	
+rs1111875	diabetes	17827400	
+rs11178997	bipolar disorder	17905754	
+rs11200638	choroidal neovascularization	17426452	
+rs11200638	drusen	17426452	
+rs11200638	geographic atrophy	17426452	
+rs11200638	macular degeneration	17426452	
+rs11209026	ankylosing spondylitis	18199597	
+rs11209026	inflammatory bowel diseases	17068223	
+rs11209026	ulcerative colitis	17068223	
+rs11209026	ulcerative colitis	17877509	
+rs11209026	ulcerative colitis	17894849	
+rs1121980	Obesity	18159244	
+rs1121980	obesity	18159244	
+rs1131497	Alzheimer's disease	17903297	
+rs1131497	dementia	17903297	
+rs1131497	dyslexia	17903297	
+rs1131497	memory impairment	17903297	
+rs1133104	arthritis	17665455	
+rs1133104	rheumatoid <PHE>arthritis	17665455	
+rs1136287	macular degeneration	18226801	
+rs11584340	psoriasis	18193244	
+rs11887534	cholesterol gallstones	17632509	
+rs11946004	agoraphobia	17948870	
+rs11946004	anxiety disorders	17948870	
+rs11946004	panic disorder	17948870	
+rs12035082	Crohn disease	17993580	
+rs12035082	Psoriasis	17993580	
+rs12035082	diabetes	17993580	
+rs12035082	psoriasis	17993580	
+rs12086634	cortisone reductase deficiency	16817821	
+rs12086634	polycystic ovary syndrome	16817821	
+rs12233372	diabetes	17109766	
+rs12255372	body mass	17697858	
+rs12255372	diabetes	17697858	
+rs12325817	carcinogenesis	18230680	
+rs12325817	choline deficiency	16816108	
+rs12325817	tumor progression	18230680	
+rs1233478	Diabetes	18065518	
+rs1233478	diabetes	18065518	
+rs12704795	Diabetes	17096118	
+rs12704795	diabetes	17096118	
+rs12704795	microalbuminuria	17096118	
+rs12953258	obesity	17445271	
+rs12953717	chronic lymphocytic leukemia	18231913	
+rs12953717	colorectal cancer	18231913	
+rs13119723	celiac disease	17558408	
+rs1322784	Asperger syndrome	17579608	
+rs1322784	psychotic disorders	17579608	
+rs1322784	schizophrenia	17579608	
+rs13266634	diabetes	18162509	
+rs13277113	lupus erythematosus	18204098	
+rs13283456	diabetes	17566096	
+rs13283456	impaired glucose tolerance	17566096	
+rs1333049	Myocardial Infarction	17634449	
+rs1333049	coronary artery disease	17634449	
+rs1333049	myocardial infarction	17634449	
+rs1333955	leprosy	16734611	
+rs1333955	typhoid fever	16734611	
+rs1341665	atherosclerosis	16733231	
+rs1341665	ischemic stroke	16733231	
+rs13447075	Diabetes	17881614	
+rs13447075	diabetes	17881614	
+rs13447075	plasmacytoma	17881614	
+rs1376877	atherosclerosis	17903303	
+rs1376877	coronary heart disease	17903303	
+rs1387923	bipolar disorder	17570738	
+rs1387923	manic	17570738	
+rs1387923	post-traumatic stress disorder	17570738	
+rs1421085	body mass	17928949	
+rs1421085	obesity	17928949	
+rs1423560	polycystic ovary syndrome	17284512	
+rs143383	arthritis	17384641	
+rs1447295	Hirschsprung disease	18248681	
+rs1447295	atherosclerosis	18248681	
+rs1447295	diabetes	18248681	
+rs1447295	macular degeneration	18248681	
+rs1545620	celiac disease	17087940	
+rs1546550	Carcinogenesis	17194498	
+rs1546550	adenocarcinoma	17194498	
+rs1554483	fatty liver	17696255	
+rs1554483	fibrosis	17696255	
+rs1625895	carcinogenesis	17908995	
+rs1633445	schizophrenia	18075473	
+rs165599	Bipolar disorder	17547583	
+rs165599	schizophrenia	17547583	
+rs16944	schizophrenia	16905295	
+rs1701704	Diabetes	18198356	
+rs1701704	diabetes	18198356	
+rs17578796	schizophrenia	17849003	
+rs1793004	Crohn disease	17684544	
+rs1793004	ulcerative colitis	17684544	
+rs1799854	diabetes	16873704	
+rs1799964	Inflammation	18196539	
+rs1799964	Tumor necrosis	18196539	
+rs1799964	malaria	17493155	
+rs1799964	tumor necrosis	17493155	
+rs1799983	diabetes	17101543	
+rs1799983	diabetic nephropathy	17101543	
+rs1799990	Alzheimer's disease	17202849	
+rs1799990	Creutzfeldt-Jakob disease	17202849	
+rs1800206	diabetes	17317762	
+rs1800206	impaired glucose tolerance	17317762	
+rs1800629	lymphoma	17018637	
+rs1800629	tumor necrosis	17018637	
+rs1800795	Inflammation	17694420	
+rs1800795	colorectal cancer	17694420	
+rs1800795	inflammation	17694420	
+rs1800797	obesity	18239642	
+rs1800797	overweight	18239642	
+rs1800925	psoriasis	18075513	
+rs1801133	Osteoporosis	17903296	
+rs1801133	osteoporosis	17712717	
+rs1801133	osteoporosis	17903296	
+rs1801253	body mass	17335470	
+rs1801253	obesity	17335470	
+rs1801260	bipolar disorder	17428266	
+rs1801282	Body Mass	18280041	
+rs1801282	diabetes	18280041	
+rs1801282	obesity	18280041	
+rs1816	dementia	12112206	
+rs1816	progressive supranuclear palsy	12112206	
+rs187269	schizophrenia	17412563	
+rs1883832	lymphoma	18287517	
+rs1883832	osteoporosis	18097708	
+rs1884614	diabetes	17805472	
+rs1920792	diabetes	17033837	
+rs1920792	overweight	17033837	
+rs1990760	autoimmune diseases	17442111	
+rs1990760	diabetes	17442111	
+rs1990760	diabetes	17535987	
+rs1990760	lupus erythematosus	17535987	
+rs1990760	rheumatoid arthritis	17442111	
+rs1990760	rheumatoid arthritis	17535987	
+rs2004640	lupus erythematosus	17133578	
+rs2004640	rheumatoid arthritis	17133578	
+rs20417	ischemic stroke	16879213	
+rs20417	myocardial infarction	16879213	
+rs2043211	ulcerative colitis	18092344	
+rs20455	Atherosclerosis	18073581	
+rs20455	coronary heart disease	18073581	
+rs20455	coronary heart disease	18222354	
+rs20455	ischemic stroke	18222354	
+rs20455	myocardial infarction	18222354	
+rs2056202	autism spectrum disorders	17894412	
+rs2066865	venous thrombosis	17445871	
+rs2070106	schizophrenia	17964117	
+rs2071430	multiple sclerosis	17126411	
+rs2075252	hearing impairment	17457342	
+rs2075555	myopia	17557158	
+rs2075799	schizophrenia	18299791	
+rs2075800	sarcoidosis	17591867	
+rs2075800	uveitis	17591867	
+rs2076530	Sarcoidosis	17661910	
+rs2076530	sarcoidosis	16984233	
+rs2076530	sarcoidosis	17661910	
+rs2084202	diabetes	17266179	
+rs211014	seizures	17641256	
+rs2111902	bipolar disorder	18165970	
+rs2111902	schizophrenia	18165970	
+rs212528	essential hypertension	17664854	
+rs2144908	Atherosclerosis	18162503	
+rs2144908	Insulin Resistance	18162503	
+rs2144908	diabetes	18162503	
+rs2144908	gestational <PHE>diabetes	18162503	
+rs2144908	gestational diabetes	16752173	
+rs2166975	cleft lip	17272867	
+rs2166975	cleft palate	17272867	
+rs2167270	body mass	18059035	
+rs2167270	colorectal cancer	18059035	
+rs2167270	inflammation	18059035	
+rs2209972	body mass	17953957	
+rs2209972	insulin resistance	17953957	
+rs2209972	polycystic ovary syndrome	17953957	
+rs2229616	obesity	18239646	
+rs2230912	bipolar disorder	18268501	
+rs2230912	depressive disorder	16822851	
+rs2230912	unipolar depression	18268501	
+rs2234678	asthma	17107994	
+rs2237457	diabetes	17846126	
+rs2240340	rheumatoid arthritis	18087673	
+rs2241879	inflammation	18162085	
+rs2241879	ulcerative colitis	18162085	
+rs2241880	Crohn disease	17200669	
+rs2241880	ulcerative colitis	17200669	
+rs2242446	Mental Disorders	18081710	
+rs2242446	depressive disorder	18081710	
+rs2242446	recurrent depression	18081710	
+rs2243248	glioma	17916900	
+rs2272382	diabetes	17955208	
+rs2272382	obesity	17955208	
+rs2275703	diabetes	17681849	
+rs2277499	bipolar disorder	17541950	
+rs2277499	schizophrenia	17541950	
+rs2279744	renal cell carcinoma	17634539	
+rs2301339	myocardial infarction	17189961	
+rs2304595	essential hypertension	17318641	
+rs2305160	lymphoma	17096334	
+rs2308237	colorectal cancer	18268114	
+rs2359612	atherosclerosis	17549303	
+rs2359612	coronary heart disease	17549303	
+rs2359612	myocardial infarction	17549303	
+rs237025	Sjogren's syndrome	16735488	
+rs237025	amyloidosis	16735488	
+rs237025	autoimmune thyroid disease	16735488	
+rs237025	diabetes	16735488	
+rs237025	diabetes	17229939	
+rs237025	diabetic nephropathy	17229939	
+rs237025	rheumatoid arthritis	16735488	
+rs2373115	Alzheimer's disease	17553421	
+rs2421853	myopia	17438518	
+rs243865	rheumatoid arthritis	18205826	
+rs2476601	Rheumatism	17170052	
+rs2476601	autoimmune diseases	17133608	
+rs2476601	autoimmune thyroid disease	17148556	
+rs2476601	rheumatoid arthritis	17148556	
+rs2476601	rheumatoid arthritis	17170052	
+rs2476601	sclerosis	17133608	
+rs2476601	vitiligo	18200060	
+rs2522411	asthma	17620072	
+rs2522411	dermatitis	17620072	
+rs25531	anxiety disorders	17375136	
+rs25531	obsessive-compulsive disorder	17375136	
+rs25532	Obsessive-compulsive disorder	18055562	
+rs2606345	Depressive symptoms	16949393	
+rs2606345	depressive symptoms	16949393	
+rs266729	diabetes	16990411	
+rs266729	ischemic stroke	16990411	
+rs266729	myocardial infarction	16990411	
+rs2720709	diabetes	17395743	
+rs2720709	plasmacytoma	17395743	
+rs2727831	asthma	16815140	
+rs2781666	atherosclerosis	17369504	
+rs2781666	myocardial infarction	17369504	
+rs2903692	diabetes	17632545	
+rs2918419	insulin resistance	18194492	
+rs2970847	diabetes	17701054	
+rs3087243	autoimmune thyroid disease	17334650	
+rs3087243	diabetes	17334650	
+rs3087456	autoimmune diseases	16849401	
+rs3087456	autoimmune diseases	17012290	
+rs3087456	multiple sclerosis	17012290	
+rs3087456	myocardial infarction	17012290	
+rs3087456	rheumatoid arthritis	17012290	
+rs3087456	rheumatoid arthritis	17875550	
+rs3117099	sarcoidosis	17927685	
+rs3130342	lupus erythematosus	18058064	
+rs3138042	Hepatitis	17465499	
+rs3138042	fibrosis	17465499	
+rs3138042	hepatitis	17465499	
+rs315952	lupus erythematosus	17176440	
+rs3211956	atherosclerosis	18035074	
+rs3211956	coronary artery disease	18035074	
+rs3211956	myocardial infarction	18035074	
+rs3213216	body mass	17289909	
+rs3213216	muscle damage	17289909	
+rs3217304	asthma	18187694	
+rs324420	obesity	17216208	
+rs324420	overweight	17216208	
+rs324420	weight gain	17216208	
+rs361072	insulin resistance	17977952	
+rs3731714	talipes	17534194	
+rs3733890	neural tube defects	17035141	
+rs3736963	Neuroticism	17339520	
+rs3736963	Psychological Distress	17339520	
+rs3736963	neuroticism	17339520	
+rs3736963	psychological distress	17339520	
+rs3736963	schizophrenia	17339520	
+rs3738919	rheumatoid arthritis	17615072	
+rs3742207	body mass	18077766	
+rs3742207	diabetes	18077766	
+rs3742207	myocardial infarction	18077766	
+rs3753394	macular degeneration	17167412	
+rs3759126	interstitial fibrosis	17763164	
+rs3761847	Rheumatoid Arthritis	17804836	
+rs3761847	Rheumatoid arthritis	17804836	
+rs3761847	rheumatoid arthritis	17804836	
+rs3761847	tumor necrosis	17804836	
+rs3771300	Asthma	17983380	
+rs3771300	atopy	17983380	
+rs3771863	constipation	17448763	
+rs3772534	diabetes	17209142	
+rs3787345	diabetes	18077048	
+rs3787345	diabetic retinopathy	18077048	
+rs3787345	insulin resistance	18077048	
+rs3789604	arthritis	17135225	
+rs3789604	rheumatoid <PHE>arthritis	17135225	
+rs380390	macular degeneration	16754848	
+rs3813946	lupus erythematosus	17360460	
+rs3814055	colitis	17828778	
+rs3814055	ulcerative <PHE>colitis	17828778	
+rs3817190	agoraphobia	17197037	
+rs3817190	anxiety disorders	17197037	
+rs3817190	bipolar disorder	17197037	
+rs3817190	depressive disorder	17197037	
+rs3817190	panic attacks	17197037	
+rs3817190	unipolar depression	17197037	
+rs3825942	Glaucoma	18254956	
+rs3825942	glaucoma	18254956	
+rs3924999	Schizophrenia	17631867	
+rs3924999	schizophrenia	17631867	
+rs4072032	hypercholesterolemia	18031993	
+rs4072032	hyperlipidemia	18031993	
+rs4072032	hypertriglyceridemia	18031993	
+rs4129148	Schizophrenia	17522711	
+rs4129148	leukemia	17522711	
+rs4129148	schizophrenia	17522711	
+rs4149601	essential hypertension	18293164	
+rs419788	tumor necrosis	17997607	
+rs4253527	fibrosis	18263595	
+rs4291	unipolar depression	16924268	
+rs4305745	bipolar disorder	17097106	
+rs4305745	depressive disorder	17097106	
+rs4305745	schizoaffective disorder	17097106	
+rs4305745	schizophrenia	17097106	
+rs440446	hyperlipidemia	18296645	
+rs4420638	Alzheimer's disease	17474819	
+rs4578621	diabetes	16836753	
+rs4578621	obesity	16836753	
+rs4641	diabetes	17327460	
+rs4641	insulin resistance	17327460	
+rs4680	body mass	17636223	
+rs4680	fibromyalgia	18196244	
+rs4680	schizophrenia	17707347	
+rs4680	uterine fibroids	17636223	
+rs4779584	colorectal cancer	18084292	
+rs4804803	Inflammatory Bowel Diseases	18070336	
+rs4804803	Ulcerative Colitis	18070336	
+rs4906902	epilepsy	17215107	
+rs4906902	seizures	17215107	
+rs4939827	colorectal cancer	17934461	
+rs499818	atrial fibrillation	17903304	
+rs499818	coronary heart disease	17903304	
+rs499818	heart failure	17903304	
+rs5015480	diabetes	17928989	
+rs5015480	obesity	17928989	
+rs5182	myocardial infarction	17211857	
+rs534654	bipolar disorder	18228528	
+rs547154	macular degeneration	17576744	
+rs549908	asthma	18250135	
+rs549908	autoimmune diseases	18250135	
+rs549908	lupus erythematosus	18250135	
+rs549908	nervous system disorder	18250135	
+rs549908	rheumatoid arthritis	18250135	
+rs5569	depressive disorder	17917281	
+rs561241	anemia	17903294	
+rs591758	diabetes	18223008	
+rs591758	overweight	18223008	
+rs601341	lymphoma	17169801	
+rs6265	multiple sclerosis	17656372	
+rs6265	psychiatric hospitalization	17894414	
+rs6265	schizophrenia	17894414	
+rs6311	obsessive-compulsive disorder	17241828	
+rs6311	obsessive-compulsive disorder	18191318	
+rs6311	tic disorder	17241828	
+rs6313	rheumatoid arthritis	18006541	
+rs6413453	diabetes	18269685	
+rs659366	insulin resistance	17870627	
+rs659366	obesity	17870627	
+rs670	coronary artery disease	18179799	
+rs6822844	autoimmune diseases	17999365	
+rs6822844	celiac disease	17999365	
+rs6822844	diabetes	17999365	
+rs6822844	rheumatoid arthritis	17999365	
+rs6857715	obesity	17235527	
+rs6902123	diabetes	16804087	
+rs6902123	impaired glucose tolerance	16804087	
+rs6928499	substance dependence	16741937	
+rs6948	chronic lymphocytic leukemia	17071630	
+rs6948	lymphoma	17071630	
+rs6983267	adenoma	17618284	
+rs6983267	colorectal cancer	17618284	
+rs6994992	schizophrenia	18286587	
+rs7007329	Ischemic stroke	16953275	
+rs7007329	thrombosis	16953275	
+rs7046736	polycythemia vera	18006699	
+rs7046736	primary myelofibrosis	18006699	
+rs7100927	diabetes	17903298	
+rs7208422	epidermodysplasia verruciformis	18224692	
+rs7208422	squamous cell carcinoma	18224692	
+rs7341475	schizophrenia	18282107	
+rs751229	Bipolar disorder	17673452	
+rs751229	psychotic disorders	17673452	
+rs751229	schizophrenia	17673452	
+rs7514863	rheumatoid arthritis	17277003	
+rs7528684	autoimmune diseases	17389014	
+rs7528684	ulcerative colitis	17389014	
+rs7542281	cardiovascular diseases	17677000	
+rs7542281	ischemic stroke	17677000	
+rs7542281	thrombosis	17677000	
+rs7566605	Obesity	18223638	
+rs7566605	body mass	18270535	
+rs7566605	insulin resistance	18223638	
+rs7566605	obesity	17218508	
+rs7566605	obesity	17218510	
+rs7566605	obesity	18070740	
+rs7566605	obesity	18223638	
+rs7566605	obesity	18270535	
+rs7566605	overweight	17218510	
+rs7566605	overweight	18070740	
+rs7566605	overweight	18223638	
+rs757343	autoimmune diseases	17130574	
+rs757343	diabetes	17130574	
+rs7574865	Sjogren's syndrome	18273036	
+rs7574865	lupus erythematosus	17932559	
+rs7574865	lupus erythematosus	18273036	
+rs7574865	rheumatoid arthritis	17932559	
+rs7574865	rheumatoid arthritis	18273036	
+rs762178	Obsessive-compulsive disorder	17283288	
+rs7754840	body mass	18285412	
+rs7754840	diabetes	18285412	
+rs7756992	diabetes	18210030	
+rs7797466	colorectal cancer	16774946	
+rs780094	diabetes	18008060	
+rs780094	insulin resistance	18008060	
+rs7901695	diabetes	16936218	
+rs7901695	diabetes	18291022	
+rs7901695	impaired glucose tolerance	16936218	
+rs7903146	Diabetes	18268068	
+rs7903146	Insulin Resistance	17065361	
+rs7903146	Insulin Resistance	17977958	
+rs7903146	body mass	17593304	
+rs7903146	colorectal cancer	18268068	
+rs7903146	diabetes	16936215	
+rs7903146	diabetes	17020404	
+rs7903146	diabetes	17065361	
+rs7903146	diabetes	17342473	
+rs7903146	diabetes	17593304	
+rs7903146	diabetes	17972059	
+rs7903146	diabetes	17977958	
+rs7903146	diabetes	18268068	
+rs7903146	gestational <PHE>diabetes	17342473	
+rs7903146	hyperglycemia	17065361	
+rs7903146	hyperglycemia	17977958	
+rs7903146	impaired glucose tolerance	17593304	
+rs7903146	insulin resistance	17342473	
+rs8050136	diabetes	17786212	
+rs8192284	diabetes	17898129	
+rs828704	glioma	17389609	
+rs861529	body mass	17701750	
+rs8702	Alzheimer's disease	17611642	
+rs8702	cataract	17653041	
+rs934167	diabetes	17443311	
+rs947267	bipolar disorder	18023149	
+rs947267	schizophrenia	18023149	
+rs951436	schizophrenia	17301167	
+rs9930506	diabetes	17658951	
+rs9930506	obesity	17658951	
+rs9939609	diabetes	17942823	
+rs9939609	insulin resistance	18249188	
+rs9939609	obesity	17942823	
+rs9939609	obesity	18249188	
+rs9939609	overweight	17942823	
