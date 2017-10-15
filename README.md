@@ -17,5 +17,5 @@ Proponemos aplicar las técnicas de minería de datos así como expresiones regu
    - TRA : Fase de entrenamiento de los clasificadores 
    - EVAL: Fase final de evaluación     
    - TES : Fase de evaluación del clasificador     
-   - CLA : Fase de clasificación de abstracts 
-   - FIN : Archivos resultantes del análisis
+   - CLA : Fase de clasificación de abstracts.  
+   - FIN : Archivos resultantes del análisis
